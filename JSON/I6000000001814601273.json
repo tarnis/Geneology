@@ -1,0 +1,62 @@
+{
+  "id": "I6000000001814601273",
+  "gedcom_xref": "@I6000000001814601273@",
+  "schema_version": 1,
+  "names": [
+    "Barry A Hyner"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000043711578108",
+        "name": "Irving Hyner"
+      },
+      {
+        "id": "I6000000043681525821",
+        "name": "Ida Flaxman"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000002651532168",
+        "name": "Louise Sherman"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000002651532180",
+        "name": "Matthew Evan Hyner"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "1 SEP 1946",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Barry-A-Hyner/6000000001814601273"
+    },
+    {
+      "field": "marriage",
+      "value": "to Louise Sherman",
+      "date": "1968",
+      "place": "New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Barry-A-Hyner/6000000001814601273"
+    }
+  ],
+  "research_notes": [
+    {
+      "text": "{geni:about_me} Lived in Wantagh, New York in the 1990s.",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20"
+    }
+  ],
+  "last_updated": "2026-05-20",
+  "generation": 1
+}

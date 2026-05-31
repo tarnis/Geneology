@@ -1,0 +1,95 @@
+{
+  "id": "I6000000078411217125",
+  "gedcom_xref": "@I6000000078411217125@",
+  "schema_version": 1,
+  "names": [
+    "Abraham Chaim Flaksman"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000078497194854",
+        "name": "Yossef Flaksman"
+      },
+      {
+        "id": "I6000000078496698298",
+        "name": "Sima Flaksman"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000078496155852",
+        "name": "Heni Sapler"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000078496084915",
+        "name": "Mordechai Flaksman"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "burial",
+      "place": "Mount Lebanon Cemetery, Glendale, Queens County, New York, USA",
+      "status": "established",
+      "source": "Find a Grave Memorial #98726678 (ark:/61903/1:1:QVLV-VLQ6); confirmed by Hebrew gravestone inscription",
+      "date_added": "2026-05-24",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:QVLV-VLQ6"
+    },
+    {
+      "field": "birth",
+      "date": "1845",
+      "date_notes": "Gravestone implies ~1847 if 'AGE 82' at 1929 death; engraved numeral may be '52' (error for '82') — needs in-person verification",
+      "place": "Khotyn, Chernivets'ka oblast, Ukraine",
+      "place_status": "possible — Bessarabia supported by 3 independent US civil records; no record yet names Khotyn specifically; Orinin/Podolia (per Miguel autobiography) unsupported by records",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Abraham-Chaim-Flaksman/6000000078411217125"
+    },
+    {
+      "field": "death",
+      "date": "13 FEB 1929",
+      "place": "Manhattan, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com); confirmed by Hebrew gravestone date 4 Adar I 5689 = 13 Feb 1929",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Abraham-Chaim-Flaksman/6000000078411217125"
+    },
+    {
+      "field": "father_hebrew_name",
+      "value": "Yitzchak (Isaac)",
+      "status": "established",
+      "source": "Mount Lebanon Cemetery gravestone Hebrew inscription: 'אברהם בר יצחק פלאקסמאן' — confirmed 2026-05-24",
+      "conflict_note": "Dossier lists father as 'Yossef Flaksman' (ID I6000000078497194854) — Hebrew name Yitzchak on gravestone contradicts this. Gravestone is primary source. Requires further investigation.",
+      "date_added": "2026-05-24"
+    },
+    {
+      "field": "scholarly_title",
+      "value": "מה\"ר — Moreinu HaRav Reb",
+      "status": "established",
+      "source": "Mount Lebanon Cemetery gravestone Hebrew inscription, line 2",
+      "note": "Consistent with family memoir: 'My father was the only one of his family who studied until the Talmud. He spent the days at the synagogue.'",
+      "date_added": "2026-05-24"
+    },
+    {
+      "field": "wife_name_variant",
+      "value": "Anna Sapler (in US records) = Heni Sapler (in dossier)",
+      "status": "established",
+      "source": "Two independent US records: Tuba Feldman death cert 1939 (L001) and Max Flaxman marriage cert 1917 (L003). Anna/Heni both from Channah/Hannah.",
+      "date_added": "2026-05-24"
+    }
+  ],
+  "research_notes": [
+    {
+      "text": "{geni:about_me} Arrived in the U.S. in 1900 (Tuba came in 1920) and lived in New York until his death.\n\nFrom Miguel's autobiography: \"The grandparents from my father’s side I never met; they died before I was born. They lived in a small town called Orinin, in the state of Podolia, at 20 km of distance from Kamenetz, capital of Podolia, where I studied in the Yeshiva. During that summer, I took advantage and went there to meet my father’s relatives and see the house where he lived until he married my mother. I liked them all, simple people, of little culture,good and polite. ... My father was the only one of his family who studied until the Talmud. He spent the days at the synagogue, and that was what helped him to marry well, because the system at that time required that one would look for a scholarly fiancée.\"",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20"
+    }
+  ],
+  "last_updated": "2026-05-24",
+  "generation": 4
+}

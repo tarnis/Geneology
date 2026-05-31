@@ -1,0 +1,23 @@
+{
+  "id": "I6000000001814601212",
+  "gedcom_xref": "@I6000000001814601212@",
+  "schema_version": 1,
+  "names": [
+    "Yakov Sherman"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      {
+        "id": "I6000000001814601203",
+        "name": "Israel Sherman"
+      }
+    ]
+  },
+  "facts": [],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 4
+}

@@ -1,0 +1,63 @@
+{
+  "id": "I6000000002651532180",
+  "gedcom_xref": "@I6000000002651532180@",
+  "schema_version": 1,
+  "names": [
+    "Matthew Evan Hyner"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000001814601273",
+        "name": "Barry A Hyner"
+      },
+      {
+        "id": "I6000000002651532168",
+        "name": "Louise Sherman"
+      }
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "21 AUG 1974",
+      "place": "Brooklyn, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Matthew-Evan-Hyner/6000000002651532180"
+    },
+    {
+      "field": "occupation",
+      "value": "Computer Graphic Artist",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Matthew-Evan-Hyner/6000000002651532180"
+    },
+    {
+      "field": "residence",
+      "place": "Kingwood, Houston, Texas, 77339, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Matthew-Evan-Hyner/6000000002651532180"
+    },
+    {
+      "field": "marriage",
+      "value": "to Susana Raquel Herrera",
+      "date": "15 FEB 2014",
+      "place": "Seabrook, Texas, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Matthew-Evan-Hyner/6000000002651532180"
+    }
+  ],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 0
+}

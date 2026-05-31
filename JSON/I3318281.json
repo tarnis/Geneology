@@ -1,0 +1,43 @@
+{
+  "id": "I3318281",
+  "gedcom_xref": "@I3318281@",
+  "schema_version": 1,
+  "names": [
+    "Rose Zimmerman"
+  ],
+  "sex": "F",
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I3318278",
+        "name": "Sam Zimmerman"
+      }
+    ],
+    "children": [
+      {
+        "id": "I3297026",
+        "name": "Jack (Yankel) David Zimmerman"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "1880",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Rose-Zimmerman/3318281"
+    }
+  ],
+  "research_notes": [
+    {
+      "text": "{geni:about_me} https://familysearch.org/ark:/61903/3:1:33S7-9RK3-93JF?i=36&wc=QZZ4-PH8%3A133641301%2C137724901%2C142231601%2C1589218870%3Fcc%3D1727033&cc=1727033",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20"
+    }
+  ],
+  "last_updated": "2026-05-20",
+  "generation": 5
+}

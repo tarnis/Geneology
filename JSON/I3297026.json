@@ -1,0 +1,54 @@
+{
+  "id": "I3297026",
+  "gedcom_xref": "@I3297026@",
+  "schema_version": 1,
+  "names": [
+    "Jack (Yankel) David Zimmerman"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I3318278",
+        "name": "Sam Zimmerman"
+      },
+      {
+        "id": "I3318281",
+        "name": "Rose Zimmerman"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I3297036",
+        "name": "Esther Dora Dvora"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000001814610532",
+        "name": "Itka Zimmerman"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "ABT 1870",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Jack-Yankel-David-Zimmerman/3297026"
+    },
+    {
+      "field": "death",
+      "date": "ABT 1920",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Jack-Yankel-David-Zimmerman/3297026"
+    }
+  ],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 4
+}

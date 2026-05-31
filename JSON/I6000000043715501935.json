@@ -1,0 +1,272 @@
+{
+  "id": "I6000000043715501935",
+  "gedcom_xref": "@I6000000043715501935@",
+  "schema_version": 1,
+  "names": [
+    "Goldie Litcofsky",
+    "Gussie Litcofsky",
+    "Goldie Hyner",
+    "Gussie Hyner",
+    "Gussie Hiner"
+  ],
+  "surname_variants": [
+    "Litcofsky",
+    "Litkowsky",
+    "Litkofsky",
+    "Lidkovskaya (Russian fem. form)",
+    "Lidkovskiy (Russian surname root)"
+  ],
+  "nickname": "Gussie",
+  "sex": "F",
+  "relationships": {
+    "parents": [
+      {
+        "id": null,
+        "name": "Itsko (Isaac) Lidkovskiy",
+        "note": "Confirmed — named on 1858 10th Revision List (NHABGrodno/24/7/478, p.242v) and as father on birth record of her brother Borukh (NHABGrodno/1/28/034). Death certificate lists father as 'Isaac Mitkows[ky]' — informant Isidore garbled the surname."
+      },
+      {
+        "id": null,
+        "name": "Rokhlya (Rachel)",
+        "note": "Confirmed — listed as mother on birth record of Gussie's brother Borukh Lidkovskiy (NHABGrodno/1/28/034, p.848481). Maiden surname unknown."
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000043715363867",
+        "name": "Michael Hiner (Meilech Hynkavsky)",
+        "note": "Carpenter. Never emigrated — almost certainly died in Slonim. No US records found for him. Confirmed as father via Benjamin's 1907 marriage certificate ('Michel Honkofsky') and Isidore's 1925 marriage certificate ('Milton' Hyner)."
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000043680860536",
+        "name": "Benjamin Hiner (b. 1883/1884, Slonim)"
+      },
+      {
+        "id": null,
+        "name": "Isidor Hyner (b. 20 Dec 1888, Slonim)"
+      },
+      {
+        "id": null,
+        "name": "Celie Hyner Ruderman (b. ~1892, Russia)"
+      },
+      {
+        "id": null,
+        "name": "Morris 'Moe' Hyner (b. 30 May 1895, Slonim)"
+      }
+    ],
+    "known_siblings": [
+      {
+        "name": "Borukh (Baruch) Lidkovskiy",
+        "birth_date": "2 September 1852",
+        "birth_place": "Golynka, Slonim, Grodno",
+        "note": "Confirmed sibling — same father (Itsko) and mother (Rokhlya) on birth record NHABGrodno/1/28/034, p.848481. Born ~1 year after Gussie. Did not emigrate."
+      },
+      {
+        "name": "Aizik (Isaac) Litkovski",
+        "note": "Probable sibling — listed as son of Itsko, residing in Slonim, in 1912 Grodno Gubernia Voters List (ID SLOa0476). Still in Slonim 1912. Did not emigrate. Likely perished in Holocaust (Slonim massacre September 1942)."
+      },
+      {
+        "name": "Samuel Litcofsky (~1848)",
+        "note": "UNCONFIRMED possible sibling — WikiTree profile Litcofsky-16. Right age to be Gussie's sibling. Needs census birthplace confirmation."
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "circa 1851",
+      "date_basis": "Age 76 at death (7 May 1927) → birth ~1851",
+      "place": "Golynka (Holinka), Slonim District, Grodno Gubernia, Russian Empire (now Belarus)",
+      "place_note": "Golynka confirmed as family home town from 1858 revision list and 1852 birth record of her brother Borukh. Same village as her future husband Michael Hynkavsky.",
+      "status": "established",
+      "source": "NYC Death Certificate Reg No. 3460 (age at death); JewishGen Belarus Database 1858 revision list NHABGrodno/24/7/478; birth record of sibling NHABGrodno/1/28/034",
+      "date_added": "2026-05-20",
+      "date_updated": "2026-05-28",
+      "url": "https://a860-historicalvitalrecords.nyc.gov/search#"
+    },
+    {
+      "field": "parents_old_country",
+      "summary": "Father: Itsko (Isaac) Lidkovskiy, b. ~1823, Golynka. Grandfather: Khaim Lidkovskiy. Mother: Rokhlya (Rachel), maiden surname unknown.",
+      "archive_revision_list": "NHABGrodno/24/7/478, page 242v — 1858 10th Revision List (revizskie skazki), Golynka, Slonim. Entry: 'Itsko son of Khaim Lidkovskiy, b. ~1823.'",
+      "archive_birth_record": "NHABGrodno/1/28/034, page 848481 — 1852 birth record of Borukh Lidkovskiy: 'Father: Itsko Lidkovskiy. Mother: Rokhlya.' Both father and grandfather Khaim confirmed.",
+      "status": "established",
+      "source": "JewishGen Belarus Database (retrieved May 2026)",
+      "date_added": "2026-05-28",
+      "url": "https://www.jewishgen.org/databases/Belarus/"
+    },
+    {
+      "field": "census_1915_ny_state",
+      "date": "1915",
+      "place": "Brooklyn (Kings County), New York — AD 22, ED 20, House #95",
+      "note": "Listed as 'Gussie Hyner', age 55, mother-in-law in household of son-in-law Ely Ruderman. Household also includes daughter Celie Ruderman, grandson Milton Ruderman, and sons Isidore Hyner (25) and Morris Hyner (20).",
+      "status": "established",
+      "source": "FamilySearch",
+      "ark": "ark:/61903/1:1:K9JG-ZRY",
+      "date_added": "2026-05-28",
+      "url": "https://www.familysearch.org/search/record/results?collection_id=1937366&q.givenName=Goldie&q.surname=Litcofsky&q.birthYear=1851&q.birthYearRange=5"
+    },
+    {
+      "field": "census_1920",
+      "date": "1920",
+      "place": "Brooklyn, New York",
+      "note": "Listed as 'Gusie', mother, in son Isidore Hyner's household.",
+      "status": "established",
+      "source": "FamilySearch",
+      "ark": "ark:/61903/1:1:MJR5-TM2",
+      "date_added": "2026-05-28",
+      "url": "https://www.familysearch.org/search/record/results?collection_id=1488411&q.givenName=Goldie&q.surname=Litcofsky&q.birthYear=1851&q.birthYearRange=5"
+    },
+    {
+      "field": "death",
+      "date": "7 MAY 1927",
+      "place": "Montefiore Hospital, Bronx, New York",
+      "age_at_death": 76,
+      "status": "established",
+      "source": "NYC Department of Health Standard Certificate of Death, Registration No. 3460",
+      "certificate_details": {
+        "reg_no": "3460",
+        "last_residence": "374 E. 98th St, Brooklyn, NY",
+        "birthplace_on_cert": "Russia",
+        "father_on_cert": "Isaac Mitkows[ky]",
+        "father_note": "Informant (son Isidore) garbled the surname — 'Mitkows[ky]' is a corruption of 'Lidkowsky/Litkowsky.' The first name Isaac = 'Itsko' is confirmed correct.",
+        "mother_on_cert": "Sarah Hyner",
+        "mother_note": "Informant did not know mother's name — wrote the husband's surname 'Hyner' erroneously. Actual mother's name was Rokhlya (Rachel), confirmed from sibling birth record.",
+        "informant": "Son Isidore (Isidor Hyner)"
+      },
+      "date_added": "2026-05-28",
+      "url": "https://a860-historicalvitalrecords.nyc.gov/search#"
+    },
+    {
+      "field": "burial",
+      "date": "8 MAY 1927",
+      "place": "Jewish Cemetery, Congregation Sons of Israel, Spring Valley, Rockland County, New York",
+      "note": "Burial arranged by son Isidore. Her son Morris 'Moe' Hyner is also buried at this cemetery (died 17 Dec 1920, age 25).",
+      "status": "established",
+      "source": "NYC Death Certificate Reg No. 3460",
+      "date_added": "2026-05-28",
+      "url": "https://a860-historicalvitalrecords.nyc.gov/search#"
+    }
+  ],
+  "old_country_ancestors": {
+    "note": "Both the Litcofsky (Lidkovskiy) and Hynkavsky (Ginkovskiy) families lived in the same village — Golynka, Slonim. Michael and Gussie were neighbors before marriage.",
+    "paternal_grandfather": {
+      "name": "Khaim Lidkovskiy",
+      "place": "Golynka, Slonim, Grodno",
+      "source": "1858 revision list NHABGrodno/24/7/478 p.242v; sibling birth record NHABGrodno/1/28/034 — both confirm 'son of Khaim'"
+    },
+    "father": {
+      "name": "Itsko (Isaac) Lidkovskiy",
+      "birth_year_approx": 1823,
+      "place": "Golynka, Slonim, Grodno",
+      "source": "1858 10th Revision List, NHABGrodno/24/7/478, page 242v"
+    },
+    "mother": {
+      "name": "Rokhlya (Rachel)",
+      "maiden_surname": "Unknown",
+      "source": "Birth record of son Borukh, NHABGrodno/1/28/034, page 848481"
+    }
+  },
+  "research_notes": [
+    {
+      "date": "2026-05-20",
+      "note": "Original dossier created from GEDCOM export. Very sparse — only birthplace 'Russia' was known."
+    },
+    {
+      "date": "2026-05-28",
+      "note": "Major update from Gussie's death certificate (NYC Reg No. 3460) and JewishGen Belarus Database research. Death cert gave father's name as 'Isaac Mitkows[ky]' — identified as corruption of 'Itsko Lidkovskiy'. Confirmed via JewishGen 1858 revision list (NHABGrodno/24/7/478) showing Itsko son of Khaim in Golynka, Slonim. Birth record of brother Borukh (NHABGrodno/1/28/034) additionally confirmed: father Itsko, grandfather Khaim, and revealed mother's name as Rokhlya (Rachel) — previously unknown."
+    },
+    {
+      "date": "2026-05-28",
+      "note": "Siblings identified: (1) Borukh Lidkovskiy, b. 2 Sep 1852, Golynka — confirmed from birth record. (2) Aizik Litkovski, son of Itsko, still in Slonim 1912 — from Grodno Gubernia Voters List. (3) Samuel Litcofsky (~1848, WikiTree Litcofsky-16) — possible sibling, unconfirmed."
+    },
+    {
+      "date": "2026-05-28",
+      "note": "Death certificate listed mother as 'Sarah Hyner' — this is an error by informant son Isidore, who did not know his grandmother's name and wrote the family surname. Actual mother's name Rokhlya/Rachel is confirmed from archive record."
+    },
+    {
+      "date": "2026-05-28",
+      "note": "Both the Litcofsky and Hynkavsky families appear in the SAME archive file (NHABGrodno/24/7/478) for Golynka village. Gussie and Michael Hynkavsky grew up as neighbors in the same small village before marriage."
+    }
+  ],
+  "jgff_researchers": {
+    "retrieved": "2026-05-28",
+    "total_hits": 8,
+    "total_researchers": 4,
+    "entries": [
+      {
+        "surname": "Litkofsky",
+        "town": "Derechin",
+        "country": "Belarus",
+        "researcher": "Sari Laufer",
+        "jgid": 21140,
+        "last_login": "before 2004",
+        "note": "Derechin is in Slonim district. Yizkor book shows Kalman Lidkovsky + wife Breineh + daughter perished there. Researcher likely inactive."
+      },
+      {
+        "surname": "Litkofsky",
+        "town": "Slonim",
+        "country": "Belarus",
+        "researcher": "Sari Laufer or Sari Rebecca Laufer",
+        "note": "Our town. Entry not assigned to a separate named researcher in the results — likely belongs to one of the Laufer researchers."
+      },
+      {
+        "surname": "Litkofsky",
+        "town": "Vawkavysk",
+        "country": "Belarus",
+        "note": "Vawkavysk (Volkovysk) is in Grodno region, near Slonim. Likely same extended family network."
+      },
+      {
+        "surname": "Litkofsky",
+        "town": "Zelva",
+        "country": "Belarus",
+        "note": "Zelva is in Slonim district. Part of same regional cluster."
+      },
+      {
+        "surname": "Litkofsky",
+        "town": "Halynka",
+        "country": "Belarus",
+        "note": "Halynka = Golynka = OUR VILLAGE. First of two Halynka entries."
+      },
+      {
+        "surname": "Litcofsky",
+        "town": "Krasnapollye",
+        "country": "Belarus",
+        "researcher": "Alan Naselsky",
+        "jgid": 59444,
+        "last_login": "January 2026",
+        "note": "Krasnapollye is in Mogilev Gubernia — a different region. May be a separate branch. However Alan was active as recently as January 2026 — worth contacting."
+      },
+      {
+        "surname": "Lytkovsky",
+        "town": "Homyel (Gomel)",
+        "country": "Belarus",
+        "researcher": "David Rappaport",
+        "jgid": 65675,
+        "last_login": "May 2009",
+        "note": "Gomel/Mogilev branch. The Belarus Births false-match record (Litkovskiy Mendel', born Gomel 1912) suggests there is a separate Gomel Litkovsky family. Researcher likely inactive."
+      },
+      {
+        "surname": "Litkofsky",
+        "town": "Halynka",
+        "country": "Belarus",
+        "researcher": "Sari Rebecca Laufer",
+        "jgid": 1023680,
+        "last_login": "September 2023",
+        "priority": "HIGH",
+        "note": "*** MOST IMPORTANT CONTACT *** Halynka = Golynka = our exact village. Sari Rebecca Laufer is actively researching the Litkofsky family in the same village where Gussie, her father Itsko, grandfather Khaim, and brothers Borukh and Aizik all lived. Last logged in September 2023 — relatively recent. Almost certainly researching the same family branch. JewishGen contact link available (JGID #1023680). Note: May be related to / same person as Sari Laufer #21140 (both Laufer, both Litkofsky)."
+      }
+    ],
+    "action_recommended": "Contact Sari Rebecca Laufer (JGID #1023680) via JewishGen — she is researching Litkofsky in Halynka/Golynka, our exact village, and was active as recently as September 2023. Contact URL: https://www.jewishgen.org/jgff/jgffform.php (log in, search Litcofsky, click her contact link). Also consider contacting Alan Naselsky (#59444, Krasnapollye, active January 2026)."
+  },
+  "pending_research": [
+    "PRIORITY: Contact Sari Rebecca Laufer (JGID #1023680) via JewishGen Family Finder — researching Litkofsky in Halynka/Golynka, last active Sep 2023",
+    "WikiTree Samuel Litcofsky (Litcofsky-16, ~1848) — confirm birthplace via census to determine if Gussie's brother",
+    "NHABGrodno/1/28/034 — order original document image to see full birth record and any siblings listed nearby",
+    "NHABGrodno/24/7/478 — order original 1858 revision list page to see full Lidkovskiy household (may show more siblings)",
+    "Slonim metrical books (JRI-Poland / NHABGrodno Fond 1) — search for marriage record of Itsko Lidkovskiy + Rokhlya"
+  ],
+  "last_updated": "2026-05-28T07:00",
+  "generation": 4
+}

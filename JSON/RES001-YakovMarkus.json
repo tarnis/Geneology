@@ -1,0 +1,100 @@
+{
+  "id": "RES001-YakovMarkus",
+  "gedcom_xref": null,
+  "schema_version": 1,
+  "research_id_note": "Not in original GEDCOM. Assigned research ID RES001. Discovered 2026-05-21 from Suwalki PSA birth register 1887, Akta 48 (Beckie Marcus's birth record).",
+  "names": [
+    "Yakov Markus",
+    "Jacob Markus",
+    "Яков Абрамович Маркус"
+  ],
+  "names_note": "First name reads as 'Яков' (Yakov = Jacob/Yankel) in two separate locations in the Akta 48 document. Alternate reading 'Борух' (Boruch/Baruch) is possible but less supported. Surname 'Маркус' (Markus = Marcus) clearly legible. Hebrew/Yiddish: Yankel / Yankev ben Avrom Markus.",
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": "RES002-AbramMarkus",
+        "name": "Abraham (Abram) Markus",
+        "role": "father",
+        "status": "possible",
+        "source": "Derived from Yakov's patronymic 'Абрамович' (Abramovitch = son of Abraham) in Suwalki PSA birth register 1887, Akta 48"
+      }
+    ],
+    "probable_spouse": {
+      "id": "I6000000043711253448",
+      "name": "Dora Marcus",
+      "status": "possible",
+      "source": "GEDCOM export (Geni.com) lists Dora Marcus (b. ~1860) as mother of Beckie Marcus. Akta 48 names the father as Yakov Abramovitch Markus and states 'законная жена его' (his lawful wife) bore the child — wife's name not yet legibly confirmed from the scan.",
+      "notes": "The mother's name in Akta 48 has not been confirmed from the image due to resolution limitations. Dora Marcus and Yakov Markus are assumed to be husband and wife based on the GEDCOM record for Beckie Marcus (their daughter). Dora's maiden name unknown."
+    },
+    "children": [
+      {
+        "id": "I6000000043681164143",
+        "name": "Beckie Marcus (Riwka Markus)",
+        "role": "child",
+        "status": "possible",
+        "source": "Suwalki PSA birth register 1887, Akta 48 — child Рювка (Rywka/Rivka) Markus, father Yakov Abramovitch Markus"
+      }
+    ],
+    "probable_children": [
+      {
+        "name": "Abram Bejnes Markus",
+        "status": "possible",
+        "source": "Suwalki PSA birth register 1887, Akta 47 — same day registration, consecutive akta, same father, suggesting twin with Riwka",
+        "notes": "Akta 47 immediately precedes Akta 48 (Riwka) in the same register, registered the same day. Same father: Yakov Abramovitch Markus. Likely Riwka's twin brother. Bejnes may be a Yiddish name form."
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "ABT 1838",
+      "date_note": "Age stated as approximately 49 years old ('сорока лет' = 40 years; alternate reading may give ~49) in Akta 48 dated 9 March 1887. Birth year estimated as ~1838-1847 depending on exact age reading. Best estimate: ~1838.",
+      "place": "Unknown — likely Suwałki Gubernia, Russian Empire",
+      "status": "possible",
+      "source": "Age derived from Suwalki PSA birth register 1887, Akta 48",
+      "date_added": "2026-05-21",
+      "url": "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/14210898"
+    },
+    {
+      "field": "residence",
+      "date": "9 MAR 1887",
+      "place": "Suwałki, Suwałki Gubernia, Russian Empire (now NE Poland)",
+      "description": "Stated as 'мещанин города Сувалки' — meshchanin (townsman/burgher) of Suwałki. This is an estate/social class designation indicating he was a registered townsman of Suwałki.",
+      "status": "possible",
+      "source": "Suwalki PSA birth register 1887, Akta 48 (szukajwarchiwach.gov.pl, unit 14210898, scan 27)",
+      "date_added": "2026-05-21",
+      "url": "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/14210898"
+    }
+  ],
+  "research_notes": [
+    {
+      "date": "2026-05-21",
+      "session": "Suwalki PSA research session",
+      "summary": "Yakov Abramovitch Markus was identified as the probable father of Beckie Marcus (born Riwka Markus) from the Suwalki Jewish civil registry (PSA Fond 204), 1887, Akta 48. The document is held at Archiwum Państwowe w Suwałkach, reference code 63/204/0/1/56, scan 27 (szukajwarchiwach.gov.pl, unit 14210898). His name appears twice in the birth record formula: in the opening clause where the father presents himself to the registrar, and in the parentage clause. Both occurrences read as 'Яков' (Yakov/Jacob). His patronymic 'Абрамович' (Abramovitch) is clearly legible in both occurrences, confirming his father's name was Abraham/Abram."
+    },
+    {
+      "date": "2026-05-21",
+      "topic": "Father's first name — confidence level",
+      "note": "The first name 'Яков' was read at approximately 42% zoom in the szukajwarchiwach.gov.pl viewer, which limits certainty. The word appears to start with 'Я' (Ya-), consistent with Яков. An alternate reading of 'Борух' (Boruch/Baruch) has been suggested but is less supported by the visual appearance. Both readings were considered; Яков is the preferred reading. To resolve definitively: (1) order a high-resolution scan via 'Order larger format' on szukajwarchiwach.gov.pl for unit 14210898, scan 27; (2) contact Archiwum Państwowe w Suwałkach directly at sekretariat@suwalki.ap.gov.pl; or (3) check if FamilySearch has this register indexed with pre-transcribed names."
+    },
+    {
+      "date": "2026-05-21",
+      "topic": "Social status — meshchanin",
+      "note": "Yakov is described as a 'мещанин' (meshchanin) of Suwałki. In the Russian Empire, meshchanin was the urban estate class — artisans, small traders, and urban dwellers who were neither nobility nor peasants. For Ashkenazi Jews in Congress Poland, most urban Jewish residents were classified as meshchane (pl.) of their town of registration. This confirms the family was settled in Suwałki proper, not a surrounding shtetl or village."
+    },
+    {
+      "date": "2026-05-22",
+      "topic": "NYC Marriage Certificate — first name ambiguity",
+      "note": "NYC Marriage Certificate M-K-1907-0005761 (Beckie Markas + Bennie Honkofsky, 10 May 1907, Kings/Brooklyn): the bride's Father's Name field reads '[Leidny?] Markas' — surname 'Markas' (= Markus) clearly legible ✓, but the first name is ambiguous. User Matthew reads 'Leidny'; alternate 'Cidny' also considered. Neither clearly maps to 'Yakov'/'Jacob'/'Yankel'. Possible explanations: (a) different name form in American context vs. Russian registry; (b) the Akta 48 reading 'Яков' is itself uncertain; (c) the 1940 census shows a son 'Sidney' — Ashkenazi naming convention suggests the son could be named after a deceased grandfather, and 'Sidney' is a common Americanization of various Yiddish names (including possibly the father's name). Resolution: order certified copy of cert 5761 from NYC Municipal Archives (Purchase Certified Copy button at a860-historicalvitalrecords.nyc.gov/view/8145195). Also: Dora's maiden name is now confirmed as Abramowitz from this same certificate — this is a major new finding enabling new search strategies."
+    },
+    {
+      "date": "2026-05-21",
+      "topic": "Next steps — UPDATED",
+      "note": "1. Order certified copy of NYC Marriage Certificate #5761 (M-K-1907-0005761) from NYC Municipal Archives to read bride's father's first name definitively. 2. Confirm first name from high-res scan of Suwalki PSA 63/204/0/1/56, scan 27. 3. Search 1900/1905/1910 US census for Jacob/Yakov Markus or '[Leidny?]' Markus/Marcus household from Suwałki in Brooklyn. 4. Search JRI-Poland for Markus births in Suwałki before 1887 — may find other children. 5. Search Suwalki PSA for Abramowitz family — Dora (née Abramowitz) may have a birth record there. 6. Consult Suwalki Gubernia Revision Lists if digitized."
+    }
+  ],
+  "rejected_records": [],
+  "last_updated": "2026-05-22",
+  "generation": 4
+}

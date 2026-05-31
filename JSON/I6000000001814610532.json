@@ -1,0 +1,150 @@
+{
+  "id": "I6000000001814610532",
+  "gedcom_xref": "@I6000000001814610532@",
+  "schema_version": 1,
+  "names": [
+    "Yetta Sherman",
+    "Itka Zimmerman",
+    "Itka Sherman",
+    "Yetta Sherman (Itka Zimmerman)",
+    "Yenta Zimmerman"
+  ],
+  "sex": "F",
+  "generation": 3,
+  "relationships": {
+    "parents": [
+      {
+        "id": "I3297026",
+        "name": "Jack (Yankel/Yaakov) Zimmerman"
+      },
+      {
+        "id": "I3297036",
+        "name": "Esther Dora (Dvora) Zimmerman"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000001814601203",
+        "name": "Israel Sherman"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000001814601218",
+        "name": "David Sherman"
+      },
+      {
+        "id": "",
+        "name": "Jack Sherman"
+      },
+      {
+        "id": "",
+        "name": "Celia Sherman"
+      },
+      {
+        "id": "",
+        "name": "Jennie Sherman"
+      }
+    ],
+    "siblings": [
+      {
+        "id": "",
+        "name": "David Zimmerman"
+      },
+      {
+        "id": "",
+        "name": "Seymour Zimmerman"
+      },
+      {
+        "id": "",
+        "name": "Meyer Zimmerman"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "ABT 1884",
+      "place": "Russia",
+      "status": "established",
+      "source": "Beth David Cemetery gravestone (photographed 2026-05-30); cross-referenced with death date 1 Apr 1971 aged 86",
+      "date_added": "2026-05-30",
+      "note": "Gravestone states DIED APRIL 1, 1971 AGED 86 YEARS. Birth year 1884 or early 1885. Prior GEDCOM entry of ~1887 superseded."
+    },
+    {
+      "field": "birth",
+      "date": "ABT 1887",
+      "place": "Russia",
+      "status": "superseded",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Itka-Zimmerman/6000000001814610532",
+      "note": "Superseded by gravestone evidence placing birth in 1884-1885."
+    },
+    {
+      "field": "death",
+      "date": "1 APR 1971",
+      "place": "Nassau County, New York, United States",
+      "status": "established",
+      "source": "Beth David Cemetery gravestone; Find a Grave memorial #278784651; GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.findagrave.com/memorial/278784651/yetta-sherman",
+      "note": "Confirmed by gravestone and Hebrew date 6 Nisan 5731. Age at death: 86 years."
+    },
+    {
+      "field": "burial",
+      "place": "Beth David Cemetery, Elmont, Nassau County, New York, United States",
+      "status": "established",
+      "source": "Beth David Cemetery gravestone; Find a Grave memorial #278784651; GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.findagrave.com/memorial/278784651/yetta-sherman",
+      "note": "Plot: Section G8 - Row 14 - Grave 38."
+    },
+    {
+      "field": "census_1920",
+      "date": "1920",
+      "place": "New York, New York",
+      "status": "established",
+      "source": "United States Federal Census 1920 (FamilySearch ARK)",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:MJ16-PWD",
+      "date_added": "2026-05-30",
+      "note": "Listed as Yetta Sherman with husband Israel Sherman and children Jacob, David, Celia."
+    },
+    {
+      "field": "occupation",
+      "value": "Housewife",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Itka-Zimmerman/6000000001814610532"
+    },
+    {
+      "field": "residence",
+      "date": "1920",
+      "place": "New York, New York",
+      "status": "established",
+      "source": "United States Federal Census 1920",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:MJ16-PWD",
+      "date_added": "2026-05-30"
+    }
+  ],
+  "research_notes": [
+    {
+      "date": "2026-05-20",
+      "session": "Initial GEDCOM import",
+      "summary": "Dossier created from Geni.com GEDCOM export."
+    },
+    {
+      "date": "2026-05-30",
+      "session": "Gravestone photograph analysis",
+      "summary": "Gravestone confirms DIED APRIL 1, 1971 AGED 86 YEARS. Birth year established as 1884-1885, superseding ~1887."
+    },
+    {
+      "date": "2026-05-30",
+      "session": "Multi-database research pass",
+      "summary": "Find a Grave #278784651 confirmed. Additional children: Jack, Celia, Jennie Sherman. 1920 census ARK MJ16-PWD found."
+    }
+  ],
+  "rejected_records": [],
+  "last_updated": "2026-05-30"
+}

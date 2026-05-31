@@ -1,0 +1,75 @@
+{
+  "id": "I6000000002651532168",
+  "gedcom_xref": "@I6000000002651532168@",
+  "schema_version": 1,
+  "names": [
+    "Louise Sherman",
+    "Louise Hyner"
+  ],
+  "sex": "F",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000001814601218",
+        "name": "David Sherman"
+      },
+      {
+        "id": "I6000000081000502998",
+        "name": "Jean Sweedler"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000001814601273",
+        "name": "Barry A Hyner"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000002651532180",
+        "name": "Matthew Evan Hyner"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "burial",
+      "place": "West Babylon, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Louise-Sherman/6000000002651532168"
+    },
+    {
+      "field": "birth",
+      "date": "8 JUN 1947",
+      "place": "New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Louise-Sherman/6000000002651532168"
+    },
+    {
+      "field": "death",
+      "date": "21 OCT 2004",
+      "place": "Wantagh, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Louise-Sherman/6000000002651532168"
+    },
+    {
+      "field": "marriage",
+      "value": "to Barry A Hyner",
+      "date": "1968",
+      "place": "New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Louise-Sherman/6000000002651532168"
+    }
+  ],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 1
+}

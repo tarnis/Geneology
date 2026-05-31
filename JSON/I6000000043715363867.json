@@ -1,0 +1,141 @@
+{
+  "id": "I6000000043715363867",
+  "gedcom_xref": "@I6000000043715363867@",
+  "schema_version": 1,
+  "names": [
+    "Michael Hiner",
+    "Meilech Hynkavsky"
+  ],
+  "name_notes": "Michael is the anglicized form of the Yiddish name Meilech (= Hebrew Melech, meaning 'king'). Hynkavsky (also spelled Hinkavsky, Hynkovsky) was the family's original Slavic surname. In Russian records it appears as Ginkovskiy (Russian has no H sound; G/Г substitutes). On his son Benjamin's 1907 marriage certificate it appears as 'Honkofsky'; on Isidore's 1925 marriage certificate the father is listed as 'Milton Hyner' (severe garbling by that point).",
+  "original_surname": "Hynkavsky / Ginkovskiy (Russian form)",
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": null,
+        "name": "Osher Itsko Ginkovskiy (probable)",
+        "birth_year_approx": 1846,
+        "place": "Golynka, Slonim, Grodno",
+        "note": "Probable father — listed in 1858 10th Revision List (NHABGrodno/24/7/478, p.25v) as son of Iosel' Ginkovskiy, b. ~1846. 'Itsko' as a middle name suggests he was named for a grandfather Yitzhak. Michael would have been born ~1848–1858 to Osher Itsko, consistent with Benjamin b. 1883 being Osher's grandson."
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000043715501935",
+        "name": "Goldie (Gussie) Litcofsky",
+        "note": "Married in Slonim area, Russia Empire, date unknown. Both from Golynka — they were neighbors before marriage."
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000043680860536",
+        "name": "Benjamin Hiner (b. 1883/1884, Slonim)"
+      },
+      {
+        "id": null,
+        "name": "Isidor Hyner (b. 20 Dec 1888, Slonim)"
+      },
+      {
+        "id": null,
+        "name": "Celie Hyner Ruderman (b. ~1892, Russia)"
+      },
+      {
+        "id": null,
+        "name": "Morris 'Moe' Hyner (b. 30 May 1895, Slonim)"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "circa 1848–1858",
+      "place": "Golynka (Holinka), Slonim District, Grodno Gubernia, Russian Empire (now Belarus)",
+      "place_note": "Golynka confirmed as the Hynkavsky family home village — Benjamin's 1904 ship manifest lists last residence as 'Holenko' (= Golynka/Holinka). The Ginkovskiy family appears in the 1858 revision list for Golynka (NHABGrodno/24/7/478).",
+      "status": "probable",
+      "source": "Inferred from children's birth dates (eldest Benjamin b. 1883), ship manifest last residence, and 1858 revision list placing Ginkovskiy family in Golynka",
+      "date_added": "2026-05-28"
+    },
+    {
+      "field": "occupation",
+      "value": "Carpenter",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com); consistent with son Benjamin also being a carpenter",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Michael-Hiner/6000000043715363867"
+    },
+    {
+      "field": "death",
+      "date": "before 1904",
+      "place": "Slonim, Grodno Gubernia, Russian Empire (probable)",
+      "status": "probable",
+      "note": "Michael never emigrated to the United States. No US records found under any spelling variant of Hynkavsky/Ginkovskiy/Hinkofsky. Gussie appears as a widow in all US records. He most likely died in Slonim before Benjamin emigrated in January 1904, or possibly before the family began emigrating at all.",
+      "date_added": "2026-05-28"
+    }
+  ],
+  "old_country_ancestors": {
+    "note": "Confirmed via JewishGen Belarus Database 1858 10th Revision List, NHABGrodno/24/7/478, page 25v. Both the Ginkovskiy (Hynkavsky) and Lidkovskiy (Litcofsky) families appear in the SAME archive file, both in Golynka village — Michael and Gussie grew up as neighbors.",
+    "paternal_great_grandfather": {
+      "name": "Movsha Ginkovskiy",
+      "place": "Golynka, Slonim, Grodno",
+      "note": "Father of Iosel'. Born est. 1790s–1800s."
+    },
+    "paternal_grandfather": {
+      "name": "Iosel' Ginkovskiy",
+      "birth_year_approx": 1826,
+      "place": "Golynka, Slonim, Grodno",
+      "note": "Son of Movsha. Head of household in 1858 10th Revision List, NHABGrodno/24/7/478, p.25v. 'Iosel'' = Yiddish Yossel = Joseph."
+    },
+    "probable_father": {
+      "name": "Osher Itsko Ginkovskiy",
+      "birth_year_approx": 1846,
+      "place": "Golynka, Slonim, Grodno",
+      "note": "Son of Iosel'. Listed in same 1858 revision entry. 'Osher' = Asher. Middle name 'Itsko' suggests named for a paternal grandfather Yitzhak."
+    }
+  },
+  "surname_phonetics": {
+    "original": "Hynkavsky (Hynkovsky)",
+    "russian_form": "Гинковский (Ginkovskiy)",
+    "explanation": "Russian has no H sound. The Cyrillic Г (G) substitutes for Hy-. The English spelling 'Hynkavsky' represents the Yiddish/Belarusian pronunciation of the surname. Variant spellings in US records: Honkofsky (Benjamin's 1907 marriage cert), Yankofsky/Yankowsky (Benjamin's ship manifest — indexer mishearing), Milton/Hyner (Isidore's 1925 marriage cert — extreme garbling). The surname was likely abandoned entirely by the American-born generation in favor of 'Hyner.'",
+    "known_variants": [
+      "Hynkavsky",
+      "Hinkavsky",
+      "Hynkovsky",
+      "Honkofsky",
+      "Yankowsky (manifest indexing error)",
+      "Ginkovskiy (Russian)",
+      "Hyner (Americanized)"
+    ]
+  },
+  "research_notes": [
+    {
+      "date": "2026-05-20",
+      "note": "Original dossier from GEDCOM — only birthplace 'Russia' and occupation 'Carpenter' were known. FamilySearch link in Geni notes (ark:/61903/1:1:2W2C-G4G) appears to point to a FamilySearch record — possibly shared with Benjamin's death record entry."
+    },
+    {
+      "date": "2026-05-28",
+      "note": "Major update from JewishGen Belarus Database research. The Ginkovskiy family confirmed in Golynka, Slonim, via 1858 10th Revision List (NHABGrodno/24/7/478, p.25v). Family line: Movsha → Iosel' (b. ~1826) → Osher Itsko (b. ~1846) → Michael/Meilech → Benjamin (b. 1883). Note: the generational step from Osher Itsko to Michael is inferred, not directly documented. An archive document order from NHABGrodno could potentially confirm it."
+    },
+    {
+      "date": "2026-05-28",
+      "note": "Michael never emigrated. All children emigrated to Brooklyn. Gussie is always listed as a widow in US records (1915, 1920 censuses). Most likely died in Slonim before 1904. If he survived into the early Soviet period, he would have been in the Slonim Jewish community that was liquidated in September 1942 (Slonim massacre — approx. 9,000 Jews killed)."
+    },
+    {
+      "date": "2026-05-28",
+      "note": "Surname documentation: Benjamin's 1907 NYC marriage certificate names groom's father as 'Michel Honkofsky' — this is the clearest US-record confirmation of Michael's first name and surname. Isidore's 1925 marriage certificate lists father as 'Milton Hyner' — by that point Isidore was using 'Hyner' and mis-remembered/transliterated the Yiddish Meilech as Milton."
+    }
+  ],
+  "jri_poland_result": {
+    "retrieved": "2026-05-28",
+    "search": "Hynkavsky, phonetic (Beider-Morse), Grodno Gubernia",
+    "result": "1 hit returned: ACKOWSKI, Elia Lejb, born 1866, Białystok, Grodno Gubernia, Type B (Birth), Akta 210, father Tewia, microfilm 1191933.",
+    "conclusion": "FALSE MATCH. ACKOWSKI is an unrelated family; matched via loose phonetic equivalence only. No actual Hynkavsky/Ginkovskiy records indexed in JRI-Poland for Grodno Gubernia. The Slonim/Golynka area metrical books have NOT been fully indexed by JRI-Poland — records must be sought directly from NHABGrodno."
+  },
+  "pending_research": [
+    "NHABGrodno/24/7/478, p.25v — order original 1858 revision list image to confirm full Ginkovskiy household and verify Osher Itsko as father of Michael",
+    "Slonim metrical books (NHABGrodno Fond 1) — search for birth record of Michael/Meilech Hynkavsky (~1848–1858). NOT yet indexed by JRI-Poland.",
+    "Slonim metrical books — search for marriage record of Michael Hynkavsky + Golda Litcofsky",
+    "Belarus GenWeb / JewishGen Belarus SIG document ordering — request copies of NHABGrodno pages directly from the archive"
+  ],
+  "last_updated": "2026-05-28",
+  "generation": 4
+}

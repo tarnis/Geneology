@@ -1,0 +1,75 @@
+{
+  "id": "I6000000001814601203",
+  "gedcom_xref": "@I6000000001814601203@",
+  "schema_version": 1,
+  "names": [
+    "Israel Sherman"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000001814601212",
+        "name": "Yakov Sherman"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000001814610532",
+        "name": "Itka Zimmerman"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000001814601218",
+        "name": "David Sherman"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "15 SEP 1886",
+      "place": "Shedlitz, Russian Federation",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Israel-Sherman/6000000001814601203"
+    },
+    {
+      "field": "death",
+      "date": "23 MAY 1978",
+      "place": "Brooklyn, NY, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Israel-Sherman/6000000001814601203"
+    },
+    {
+      "field": "burial",
+      "date": "24 MAY 1978",
+      "place": "Elmont, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Israel-Sherman/6000000001814601203"
+    },
+    {
+      "field": "occupation",
+      "value": "Tailor",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Israel-Sherman/6000000001814601203"
+    }
+  ],
+  "research_notes": [
+    {
+      "text": "{geni:about_me} https://familysearch.org/ark:/61903/1:1:MJ16-PW8",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20"
+    }
+  ],
+  "last_updated": "2026-05-20",
+  "generation": 3
+}

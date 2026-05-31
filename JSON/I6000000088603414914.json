@@ -1,0 +1,57 @@
+{
+  "id": "I6000000088603414914",
+  "gedcom_xref": "@I6000000088603414914@",
+  "schema_version": 1,
+  "names": [
+    "Anna Esther Zuckerman",
+    "Anna Esther Sweedler"
+  ],
+  "sex": "F",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000116361457501",
+        "name": "Zuckerman"
+      },
+      {
+        "id": "I6000000116361457504",
+        "name": "Unknown"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000043680087300",
+        "name": "Louis Svidler"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000081000502998",
+        "name": "Jean Sweedler"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "ABT 1874",
+      "place": "Vilnius, Vilnius County, Lithuania",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Anna-Esther-Zuckerman/6000000088603414914"
+    },
+    {
+      "field": "death",
+      "date": "17 OCT 1950",
+      "place": "New York",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Anna-Esther-Zuckerman/6000000088603414914"
+    }
+  ],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 3
+}

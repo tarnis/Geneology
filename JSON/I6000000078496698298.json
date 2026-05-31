@@ -1,0 +1,37 @@
+{
+  "id": "I6000000078496698298",
+  "gedcom_xref": "@I6000000078496698298@",
+  "schema_version": 1,
+  "names": [
+    "Sima Flaksman"
+  ],
+  "sex": "F",
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I6000000078497194854",
+        "name": "Yossef Flaksman"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000078411217125",
+        "name": "Abraham Chaim Flaksman"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "place": "Orynyn, Podolia",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Sima-Flaksman/6000000078496698298"
+    }
+  ],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 5
+}

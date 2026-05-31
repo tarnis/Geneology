@@ -1,0 +1,28 @@
+{
+  "id": "I6000000080840673895",
+  "gedcom_xref": "@I6000000080840673895@",
+  "schema_version": 1,
+  "names": [
+    "Meyer Kaufman"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I6000000080840342097",
+        "name": "Rose Mandell"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000080840141299",
+        "name": "Samuel Kaufman"
+      }
+    ]
+  },
+  "facts": [],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 5
+}

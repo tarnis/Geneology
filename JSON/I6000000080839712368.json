@@ -1,0 +1,290 @@
+{
+  "id": "I6000000080839712368",
+  "gedcom_xref": "@I6000000080839712368@",
+  "schema_version": 2,
+  "names": [
+    "Jennie Kaufman (maiden — CONFIRMED; 'Dickstein' in earlier tree entries = data-entry error, NO prior marriage)",
+    "Jennie Flaxman (married name)",
+    "Scheindel Kaufman (birth/Yiddish name, on 1913 passenger manifest)"
+  ],
+  "sex": "F",
+  "familysearch_tree_pid": "LBGQ-RWV",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000080840141299",
+        "name": "Samuel Kaufman",
+        "note": "Confirmed: named 'Samuel' on 1917 marriage record; 'Sam Kaufman' traveled on same SS Zeeland manifest 1913 — likely father"
+      },
+      {
+        "id": "I6000000080839648408",
+        "name": "Celia Berkman",
+        "note": "Confirmed: named 'Celia Berkman' on 1917 marriage record as bride's mother"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000078496084915",
+        "name": "Max Flaxman (born Mordechai Flaksman)",
+        "married": "1 Jun 1917",
+        "marriage_place": "Brooklyn, New York (dossier had Manhattan — CORRECTED)",
+        "note": "Only husband. Jennie listed SINGLE on 1917 marriage record — no prior husband Dickstein"
+      }
+    ],
+    "children": [
+      {
+        "name": "Anna Flaxman",
+        "familysearch_pid": "LBGQ-BX9",
+        "birth": "19 Nov 1917",
+        "birthplace": "New York",
+        "note": "First child; name struck through on naturalization petition image (died young or entry crossed out). Confirmed via FamilySearch tree. NOT in original GEDCOM dossier."
+      },
+      {
+        "id": "I6000000043681525821",
+        "name": "Ida Flaxman",
+        "familysearch_pid": "LBGQ-528",
+        "birth": "28 Aug 1919",
+        "birthplace": "New York"
+      },
+      {
+        "name": "Rhoda Flaxman",
+        "familysearch_pid": "LBGQ-52T",
+        "birth": "11 Mar 1926",
+        "death": "1989",
+        "birthplace": "New York",
+        "note": "NOT in original GEDCOM dossier — discovered via naturalization petition"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date_from_records": "13 Mar 1896 (naturalization petition, self-reported) / 18 Mar 1896 (Find a Grave, seen but not retrieved)",
+      "date_gedcom_original": "1 JUN 1895 — INCORRECT, needs correction",
+      "place": "Bessarabia, Russia (last pre-emigration residence: Chotin/Khotyn, northern Bessarabia — dossier had Chișinău, Moldova, NEEDS REVIEW)",
+      "status": "possible",
+      "source": "Naturalization petition ark:/61903/1:1:6P14-X1GM; SS Zeeland manifest ark:/61903/1:1:JJMD-S28",
+      "date_added": "2026-05-25",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:6P14-X1GM"
+    },
+    {
+      "field": "immigration",
+      "date": "8 Jul 1913",
+      "ship": "SS Zeeland, from Antwerp",
+      "port": "Ellis Island, New York",
+      "name_on_manifest": "Scheindel Kaufman",
+      "age_on_manifest": 18,
+      "marital_status_on_manifest": "Single",
+      "last_foreign_residence": "Chotin, Russia",
+      "film": "Series T715 / T715-2125",
+      "status": "established",
+      "source": "Passenger manifest ark:/61903/1:1:JJMD-S28 (image ark:/61903/3:1:3Q9M-C9TD-TSB8-K, image 543/876 page 75)",
+      "date_added": "2026-05-25",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:JJMD-S28"
+    },
+    {
+      "field": "marriage",
+      "value": "to Max Flaxman",
+      "date": "1 Jun 1917",
+      "place": "Brooklyn, New York (NOT Manhattan as in original dossier)",
+      "cert_number": "cn 16186",
+      "bride_marital_status": "SINGLE",
+      "groom": "Max Flaxman, age 23, Bessarabia Russia, Single",
+      "witnesses": [
+        "Abraham M (male)",
+        "Anna Sapler (female)"
+      ],
+      "status": "established",
+      "source": "NYC Marriage Records 1829-1938, ark:/61903/1:1:24QL-WPH",
+      "date_added": "2026-05-25",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:24QL-WPH"
+    },
+    {
+      "field": "residence_1920",
+      "value": "Bronx, AD1 ED19, Household 126, Sheet 6B Line 89. With Max (Head, 26, arr.1915), Jennie (Wife, 24, arr.1914), Anna (3 yrs, NY), Ida (3 months, NY)",
+      "status": "established",
+      "source": "1920 US Census ark:/61903/1:1:MJGK-NKF",
+      "date_added": "2026-05-25",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:MJGK-NKF"
+    },
+    {
+      "field": "residence_1930",
+      "value": "Brooklyn Districts 1751-1953, Sheet 6A Line 17. Max (Head, 36, Romania, arr.1915), Jennie (Wife, 34, Romania, arr.1913), Anna (12, NY), Ida (10, NY), Rhoda (4, NY)",
+      "status": "established",
+      "source": "1930 US Census ark:/61903/1:1:X7XM-GZS",
+      "date_added": "2026-05-25",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:X7XM-GZS"
+    },
+    {
+      "field": "residence_1940",
+      "value": "Assembly District 22, Brooklyn; ED 24-2721 (Tract 1126-part); Sheet 7B Line 64; T627. Max (Head, 47, Rumania, Married, same residence since 1935), Jennie (Wife, 44, Rumania, Married, same since 1935), Ida (Daughter, 20, NY), Rhoda (Daughter, 14, NY). Anna absent — would be ~23, likely married/moved out.",
+      "status": "established",
+      "source": "1940 US Census ark:/61903/1:1:KQGQ-QDY",
+      "date_added": "2026-05-25",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:KQGQ-QDY"
+    },
+    {
+      "field": "widowed",
+      "value": "Husband Max Flaxman died 4 Mar 1941, Brooklyn, Kings County, NY. Age 47. Death cert# 5278. Parents: Abraham Flaxman (Russia), Anna (Russia).",
+      "status": "established",
+      "source": "NYC Municipal Death Records, ark:/61903/1:1:2W1M-TFD",
+      "date_added": "2026-05-25",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:2W1M-TFD"
+    },
+    {
+      "field": "naturalization_petition",
+      "value": "Filed petition N-400 as widow of naturalized citizen (Nationality Act 1940, Sec.312). Address: 321 Georgia Ave, Brooklyn. Born 13 Mar 1896 Bessarabia. Arrived 8 Jul 1913 SS Zeeland as Scheindel Kaufman. Married Max 1 Jun 1917. Max naturalized 10 Jun 1926 Brooklyn cert#2349831. Petition cert# 395553.",
+      "status": "established",
+      "source": "Naturalization petition ark:/61903/1:1:6P14-X1GM (image ark:/61903/3:1:3Q9M-CSMK-S46D-5, image 108/1893)",
+      "date_added": "2026-05-25",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:6P14-X1GM"
+    },
+    {
+      "field": "naturalization_granted",
+      "value": "Naturalized 17 Aug 1944, Brooklyn (U.S. District Court, Eastern District of NY). Certificate# 5971171.",
+      "status": "established",
+      "source": "Naturalization certificate ark:/61903/1:1:6P16-5VCC",
+      "date_added": "2026-05-25",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:6P16-5VCC"
+    },
+    {
+      "field": "death",
+      "date": "28 Sep 1966",
+      "place": "Staten Island, New York (original dossier had Brooklyn — CORRECTED)",
+      "status": "possible",
+      "source": "Find a Grave (seen in FamilySearch search results, full record not yet retrieved — PENDING)",
+      "date_added": "2026-05-25"
+    },
+    {
+      "field": "burial",
+      "place": "Staten Island, New York, United States",
+      "status": "possible",
+      "source": "GEDCOM export (Geni.com) — consistent with corrected death place",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Jennie-Kaufman-maiden-CONFIRMED-Dickstein-in-earlier-tree-en/6000000080839712368"
+    }
+  ],
+  "surname_puzzle_resolution": {
+    "question": "Was 'Dickstein' a prior-marriage name, stepfather name, or tree error?",
+    "answer": "TREE DATA-ENTRY ERROR. Three independent primary sources confirm maiden name = KAUFMAN only:",
+    "evidence": [
+      {
+        "source": "Naturalization petition N-400, 1934 (ark:/61903/1:1:6P14-X1GM)",
+        "finding": "Reads 'Jennie Flaxman formerly Jennie KAUFMAN' — no Dickstein"
+      },
+      {
+        "source": "SS Zeeland passenger manifest, 8 Jul 1913 (ark:/61903/1:1:JJMD-S28)",
+        "finding": "Arrived as 'Scheindel KAUFMAN', marital status SINGLE"
+      },
+      {
+        "source": "NYC Marriage Record, 1 Jun 1917 (ark:/61903/1:1:24QL-WPH)",
+        "finding": "Bride: 'Jennie KAUFMAN', marital status SINGLE — definitively no prior marriage to any Dickstein"
+      }
+    ]
+  },
+  "corroborating_records": [
+    {
+      "description": "Max Flaxman final naturalization — Jennie mentioned as wife",
+      "ark": "ark:/61903/1:1:6G8V-GMX5",
+      "collection": "New York, U.S. District and Circuit Court Naturalization Records, 1824-1991",
+      "event_date": "8 Mar 1926",
+      "event_place": "Brooklyn, New York",
+      "note": "Jennie listed as wife; birthplace Bessarabia Russia; Max born 5 Mar 1893"
+    },
+    {
+      "description": "Max Flaxman declaration of intent (first papers) — Jennie mentioned as wife",
+      "ark": "ark:/61903/1:1:6G6J-6LTK",
+      "collection": "New York, U.S. District and Circuit Court Naturalization Records, 1824-1991",
+      "event_date": "17 Dec 1919",
+      "event_place": "Bronx, New York",
+      "cert_number": 32443,
+      "note": "Jennie listed as wife; birthplace Benarabia Russia; Max born 5 Mar 1893"
+    }
+  ],
+  "needs_review": [
+    {
+      "item": "Naturalization petition — first child name",
+      "description": "Child born 19 Nov 1917, name struck through and illegible on image ark:/61903/3:1:3Q9M-CSMK-S46D-5 (image 108). FamilySearch tree calls this child Anna Flaxman (LBGQ-BX9). Human review of scan recommended.",
+      "status": "pending"
+    },
+    {
+      "item": "SS Zeeland manifest — US contact in Jennie's row",
+      "description": "Image ark:/61903/3:1:3Q9M-C9TD-TSB8-K (image 543, page 75). Relationship to contact reads 'Cousin'; name reads approximately 'M Gelman' but not fully legible. Human review recommended.",
+      "status": "pending"
+    }
+  ],
+  "pending_searches": [
+    {
+      "search": "Find a Grave full record for Jennie Flaxman",
+      "details": "Death 28 Sep 1966, Staten Island, birth 18 Mar 1896. Seen in FamilySearch search results but full record not retrieved. Confirm exact dates and cemetery.",
+      "priority": "high"
+    },
+    {
+      "search": "New York State death certificate for Jennie Flaxman, 1966",
+      "details": "Staten Island, Sep 1966. Would confirm exact death date, cause, and surviving family at time of death.",
+      "priority": "high"
+    },
+    {
+      "search": "Sam Kaufman on 1913 SS Zeeland manifest",
+      "details": "A 'Sam Kaufman' appeared on same manifest page as Scheindel Kaufman. Determine if this is her father Samuel Kaufman or an unrelated traveler.",
+      "priority": "medium"
+    },
+    {
+      "search": "Anna Flaxman (b. 19 Nov 1917) — further research",
+      "details": "First child of Jennie and Max. Absent from 1940 household (would be ~23). FamilySearch PID LBGQ-BX9. Search for marriage record and subsequent life.",
+      "priority": "medium"
+    }
+  ],
+  "key_corrections_to_gedcom": [
+    {
+      "field": "names",
+      "old": "Jennie Dickstein Kaufman / Jennie Dickstein Flaxman",
+      "corrected": "Jennie Kaufman / Jennie Flaxman",
+      "reason": "Three primary sources confirm maiden name KAUFMAN, marital status SINGLE before first marriage. 'Dickstein' is a tree data-entry error."
+    },
+    {
+      "field": "birth_date",
+      "old": "1 JUN 1895",
+      "corrected": "13 Mar 1896 (per N-400 petition) or 18 Mar 1896 (per Find a Grave)",
+      "reason": "Self-reported on naturalization petition 1934."
+    },
+    {
+      "field": "birth_place",
+      "old": "Chișinău, Moldova",
+      "corrected": "Bessarabia, Russia (last residence Chotin/Khotyn per 1913 manifest)",
+      "reason": "Manifest and petition both say Bessarabia. May have been born in Chișinău but emigrated from Chotin."
+    },
+    {
+      "field": "death_place",
+      "old": "Brooklyn, New York",
+      "corrected": "Staten Island, New York",
+      "reason": "Find a Grave record (seen in search results) shows Staten Island. Burial place in original GEDCOM was also Staten Island."
+    },
+    {
+      "field": "marriage_place",
+      "old": "Manhattan, New York",
+      "corrected": "Brooklyn, New York",
+      "reason": "Marriage certificate cert# cn 16186 shows Brooklyn."
+    },
+    {
+      "field": "children",
+      "old": "Only Ida Flaxman listed",
+      "corrected": "Anna Flaxman (b.19 Nov 1917, LBGQ-BX9), Ida Flaxman (b.28 Aug 1919, LBGQ-528), Rhoda Flaxman (b.11 Mar 1926, d.1989, LBGQ-52T)",
+      "reason": "Naturalization petition lists all three children. Anna and Rhoda absent from original GEDCOM."
+    }
+  ],
+  "research_notes": [
+    {
+      "text": "{geni:about_me} Arrived in the U.S. around 1913.\n--------------------\nhttps://en.wikipedia.org/wiki/Bessarabia",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20"
+    },
+    {
+      "text": "FamilySearch research session 2026-05-25: Surname puzzle RESOLVED — 'Dickstein' is a tree data-entry error (no supporting record found; three primary sources confirm maiden name KAUFMAN and SINGLE status before first marriage). Key records retrieved: naturalization petition N-400 (1934), SS Zeeland manifest (8 Jul 1913), NYC marriage cert (1 Jun 1917), 1920/1930/1940 US censuses, Max's death cert (4 Mar 1941), Jennie's naturalization certificate (17 Aug 1944, cert# 5971171). Two previously unknown children found: Anna (b.1917) and Rhoda (1926-1989). Multiple GEDCOM facts corrected: birth year (1895→1896), birth place (Chișinău→Bessarabia/Chotin), death place (Brooklyn→Staten Island), marriage place (Manhattan→Brooklyn). FamilySearch tree PID: LBGQ-RWV.",
+      "source": "FamilySearch research session",
+      "date_added": "2026-05-25"
+    }
+  ],
+  "last_updated": "2026-05-25",
+  "generation": 3
+}

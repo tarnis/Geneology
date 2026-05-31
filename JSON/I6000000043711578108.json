@@ -1,0 +1,70 @@
+{
+  "id": "I6000000043711578108",
+  "gedcom_xref": "@I6000000043711578108@",
+  "schema_version": 1,
+  "names": [
+    "Irving Hyner"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000043680860536",
+        "name": "Benjamin Hiner"
+      },
+      {
+        "id": "I6000000043681164143",
+        "name": "Beckie Marcus"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000043681525821",
+        "name": "Ida Flaxman"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000001814601273",
+        "name": "Barry A Hyner"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "17 NOV 1916",
+      "place": "New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Irving-Hyner/6000000043711578108"
+    },
+    {
+      "field": "death",
+      "date": "2 MAR 1964",
+      "place": "New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Irving-Hyner/6000000043711578108"
+    },
+    {
+      "field": "occupation",
+      "value": "Semiskilled occupations in laundering, cleaning, dyeing, and pressing apparel and other articles",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Irving-Hyner/6000000043711578108"
+    }
+  ],
+  "research_notes": [
+    {
+      "text": "{geni:about_me} Name (Original)     HYNER IRVING\n*  Event Type     Military Service\n*  Event Date     30 Mar 1944\n*  Term of Enlistment     Enlistment for the duration of the War or other emergency, plus six months, subject to the discretion of the President or otherwise according to law\n*  Event Place     Cp Upton, Yaphank, New York, United States\n*  Race     White\n*  Citizenship Status     citizen\n*  Birth Year     1916\n*  Birthplace     NEW YORK\n*  Education Level     4 years of high school\n*  Civilian Occupation     Semiskilled occupations in laundering, cleaning, dyeing, and pressing apparel and other articles\n*  Marital Status     Married\n*  Military Rank     Private\n*  Army Branch     No branch assignment\n*  Army Component     Selectees (Enlisted Men)\n*  Source Reference     Civil Life\n*  Serial Number     42126706\n*  Affiliate ARC Identifier     1263923\n*  Box Film Number     15068.18\n\n--------------------\nServed in the military during World War II.",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20"
+    }
+  ],
+  "last_updated": "2026-05-20",
+  "generation": 2
+}

@@ -1,0 +1,28 @@
+{
+  "id": "I6000000116361457504",
+  "gedcom_xref": "@I6000000116361457504@",
+  "schema_version": 1,
+  "names": [
+    "Unknown"
+  ],
+  "sex": "F",
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I6000000116361457501",
+        "name": "Zuckerman"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000088603414914",
+        "name": "Anna Esther Zuckerman"
+      }
+    ]
+  },
+  "facts": [],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 4
+}

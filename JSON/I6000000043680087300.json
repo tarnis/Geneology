@@ -1,0 +1,65 @@
+{
+  "id": "I6000000043680087300",
+  "gedcom_xref": "@I6000000043680087300@",
+  "schema_version": 1,
+  "names": [
+    "Louis Svidler",
+    "Louis Sweedler"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000083478932628",
+        "name": "Leib Svidler"
+      },
+      {
+        "id": "I6000000083479703946",
+        "name": "Estel Blumfield"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000088603414914",
+        "name": "Anna Esther Zuckerman"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000081000502998",
+        "name": "Jean Sweedler"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "ABT 1872",
+      "place": "Russia",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Louis-Svidler/6000000043680087300"
+    },
+    {
+      "field": "death",
+      "date": "30 JAN 1941",
+      "place": "New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Louis-Svidler/6000000043680087300"
+    },
+    {
+      "field": "occupation",
+      "value": "Presser, Coats?",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Louis-Svidler/6000000043680087300"
+    }
+  ],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 3
+}

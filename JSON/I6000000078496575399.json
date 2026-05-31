@@ -1,0 +1,43 @@
+{
+  "id": "I6000000078496575399",
+  "gedcom_xref": "@I6000000078496575399@",
+  "schema_version": 1,
+  "names": [
+    "Malka Sapler"
+  ],
+  "sex": "F",
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I6000000005945314016",
+        "name": "Elie Sapler"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000078496155852",
+        "name": "Heni Sapler"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "death",
+      "place": "Khotyn, Chernivets'ka oblast, Ukraine",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Malka-Sapler/6000000078496575399"
+    }
+  ],
+  "research_notes": [
+    {
+      "text": "{geni:about_me} From Miguel's autobiography: \"My granny Malka, I knew well. She lived for several years at our house, which was hers before, and I liked her a lot. She used to make wool gloves and socks for all her grandchildren to wear in the winter. We competed for our turn, extending our hands and shouting: ‘for me, for me’, whenever she was taking measurements.\"",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20"
+    }
+  ],
+  "last_updated": "2026-05-20",
+  "generation": 5
+}

@@ -1,0 +1,61 @@
+{
+  "id": "I6000000078496155852",
+  "gedcom_xref": "@I6000000078496155852@",
+  "schema_version": 1,
+  "names": [
+    "Heni Sapler",
+    "Heni Flaksman"
+  ],
+  "sex": "F",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000005945314016",
+        "name": "Elie Sapler"
+      },
+      {
+        "id": "I6000000078496575399",
+        "name": "Malka Sapler"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000078411217125",
+        "name": "Abraham Chaim Flaksman"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000078496084915",
+        "name": "Mordechai Flaksman"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "burial",
+      "place": "West Babylon, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Heni-Sapler/6000000078496155852"
+    },
+    {
+      "field": "birth",
+      "date": "ABT 1848",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Heni-Sapler/6000000078496155852"
+    }
+  ],
+  "research_notes": [
+    {
+      "text": "{geni:about_me} Arrived in Quebec in 1908.",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20"
+    }
+  ],
+  "last_updated": "2026-05-20",
+  "generation": 4
+}

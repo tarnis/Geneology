@@ -1,0 +1,270 @@
+{
+  "id": "I6000000043680860536",
+  "gedcom_xref": "@I6000000043680860536@",
+  "schema_version": 1,
+  "names": [
+    "Benjamin Hiner",
+    "Benjamin Hyner",
+    "Benie Hyner",
+    "Benny Hyner",
+    "Benj Hyner",
+    "Boruch Hynkavsky",
+    "Boruch Yankowsky (manifest spelling)"
+  ],
+  "hebrew_name": "Boruch (Baruch)",
+  "original_surname": "Hynkavsky (also spelled Hynkovsky)",
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000043715363867",
+        "name": "Michael Hiner"
+      },
+      {
+        "id": "I6000000043715501935",
+        "name": "Goldie Litcofsky"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000043681164143",
+        "name": "Beckie Marcus"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000043711578108",
+        "name": "Irving Hyner"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "15 MAR 1884",
+      "date_alt": "11 MAR 1883",
+      "place": "Slonim, Grodno Gubernia, Russian Empire (now Belarus)",
+      "place_note": "Likely from village of Golynka/Holinka (Yid: Holinke), Slonim District — confirmed by manifest last-residence 'Holenko'",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com); 1941 US District Court naturalization gives 14 Mar 1884 / Grodna Poland; 1917 County naturalization gives 11 Mar 1883 / Slonin Russia",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Benjamin-Hiner/6000000043680860536"
+    },
+    {
+      "field": "immigration",
+      "date": "2 JAN 1904",
+      "place": "Ellis Island, New York",
+      "departure_port": "Hamburg, Germany",
+      "ship": "SS Pennsylvania (Hamburg America Line)",
+      "status": "established",
+      "manifest_name": "Boruch Yankowsky",
+      "passenger_id": "JFB6-923",
+      "image_reference": "T715-0424-94",
+      "line_number": "0017",
+      "manifest_last_residence": "Holenko",
+      "manifest_marital_status": "Single",
+      "manifest_age_at_arrival": 18,
+      "manifest_year_of_birth_indexed": 1886,
+      "manifest_nationality": "Russia, Russian",
+      "note": "Six-point confirmed match from Statue of Liberty Arrival Details tab: (1) Name Boruch, (2) ship Pennsylvania, (3) 2 Jan 1904, (4) Hamburg departure, (5) last-residence Holenko (=Golynka/Holinka, Slonim District, Grodno Province), (6) line 0017 confirmed. Marital status 'Single' at arrival — confirms Beckie Marcus immigrated separately and later. Indexed year of birth 1886 is inconsistent with naturalization forms (1883/1884) — likely an understatement at time of entry. Traveling companions from same village Holenko: Naftoly Gasner, Abram Gordin, Meyer Chananowicz.",
+      "source": "Statue of Liberty & Ellis Island Foundation Arrival Details (statueofliberty.org/arrival-details/?id=JFB6-923); NARA microfilm T715, roll 424, image 94, line 17",
+      "statueofliberty_url": "https://www.statueofliberty.org/arrival-details/?id=JFB6-923",
+      "date_added": "2026-05-21",
+      "date_established": "2026-05-21",
+      "url": "https://www.statueofliberty.org/arrival-details/?id=JFB6-923"
+    },
+    {
+      "field": "marriage",
+      "date": "10 MAY 1907",
+      "place": "Brooklyn (Kings County), New York",
+      "spouse": "Beckie Markas (= Beckie Marcus)",
+      "certificate_number": "5761",
+      "certificate_id": "M-K-1907-0005761",
+      "certificate_type": "Health Department Marriage Certificate",
+      "ceremony_location": "71 Belmont Ave, Brooklyn, NY",
+      "officiant": "Rabbi D. Radnky (or similar), Official Station 113 Belmont Ave, Brooklyn",
+      "status": "established",
+      "source": "NYC Municipal Archives Historical Vital Records, M-K-1907-0005761 (a860-historicalvitalrecords.nyc.gov/view/8145195)",
+      "details": {
+        "groom_name_on_cert": "Bennie Honkofsky",
+        "bride_name_on_cert": "Beckie Markas",
+        "groom_age": "22 years",
+        "groom_birthplace": "Russia",
+        "groom_occupation": "Carpenter",
+        "groom_residence": "369 Sackman St., Brooklyn",
+        "groom_father_on_cert": "Michel Honkofsky",
+        "groom_mother_on_cert": "Goldy Litkofsky",
+        "note": "Certificate surname 'Honkofsky' is a phonetic variant of 'Hynkavsky' (the original Slavic surname). Groom's father 'Michel Honkofsky' = Michael Hiner (GEDCOM I6000000043715363867) CONFIRMED. Groom's mother 'Goldy Litkofsky' = Goldie Litcofsky (GEDCOM I6000000043715501935) CONFIRMED."
+      },
+      "date_added": "2026-05-22",
+      "url": "https://a860-historicalvitalrecords.nyc.gov/view/8145195"
+    },
+    {
+      "field": "census_1910",
+      "date": "1910",
+      "place": "Brooklyn, New York",
+      "status": "established",
+      "source": "FamilySearch",
+      "ark": "ark:/61903/1:1:M54Z-YV6",
+      "date_added": "2026-05-20",
+      "url": "https://www.familysearch.org/search/record/results?collection_id=1727033&q.givenName=Benjamin&q.surname=Hiner&q.birthYear=1884&q.birthYearRange=5"
+    },
+    {
+      "field": "census_1920",
+      "date": "1920",
+      "place": "Brooklyn, New York",
+      "note": "Shows arrival year as '1902' — superseded by naturalization form showing 2 Jan 1904",
+      "status": "established",
+      "source": "FamilySearch",
+      "ark": "ark:/61903/1:1:MJT2-SZW",
+      "date_added": "2026-05-20",
+      "url": "https://www.familysearch.org/search/record/results?collection_id=1488411&q.givenName=Benjamin&q.surname=Hiner&q.birthYear=1884&q.birthYearRange=5"
+    },
+    {
+      "field": "census_1925_ny_state",
+      "date": "1925",
+      "place": "New York",
+      "status": "established",
+      "source": "FamilySearch — indexed as 'Benj Hyner'",
+      "ark": "ark:/61903/1:1:KS4Q-4S7",
+      "date_added": "2026-05-20",
+      "url": "https://www.familysearch.org/search/record/results?collection_id=1937366&q.givenName=Benjamin&q.surname=Hiner&q.birthYear=1884&q.birthYearRange=5"
+    },
+    {
+      "field": "census_1930",
+      "date": "1930",
+      "place": "Brooklyn, New York",
+      "status": "established",
+      "source": "FamilySearch",
+      "ark": "ark:/61903/1:1:X4KS-CXQ",
+      "date_added": "2026-05-20",
+      "url": "https://www.familysearch.org/search/record/results?collection_id=1810731&q.givenName=Benjamin&q.surname=Hiner&q.birthYear=1884&q.birthYearRange=5"
+    },
+    {
+      "field": "census_1940",
+      "date": "1940",
+      "place": "Brooklyn, New York (AD-23)",
+      "note": "Indexed as 'Benjamin Hegner' — indexer misread surname. Wife Becky, sons Sidney and Irving listed.",
+      "status": "established",
+      "source": "FamilySearch — found via Similar Records from 1930 Census",
+      "ark": "ark:/61903/1:1:KQT9-H1X",
+      "date_added": "2026-05-21",
+      "url": "https://www.familysearch.org/search/record/results?collection_id=2000219&q.givenName=Benjamin&q.surname=Hiner&q.birthYear=1884&q.birthYearRange=5"
+    },
+    {
+      "field": "naturalization_declaration_1917",
+      "date": "1917",
+      "note": "County naturalization Declaration of Intention. Born 11 Mar 1883, Slonin Russia. Ship name field not indexed.",
+      "status": "established",
+      "source": "FamilySearch — New York County Naturalization (cc=1999177)",
+      "ark": "ark:/61903/1:1:QRXC-893Z",
+      "image_ark": "3:1:3QS7-89MX-94QH",
+      "digital_folder": "005412298",
+      "image_number": "1851",
+      "date_added": "2026-05-20",
+      "url": "https://www.familysearch.org/search/record/results?collection_id=1999177&q.givenName=Benjamin&q.surname=Hiner&q.birthYear=1884&q.birthYearRange=5"
+    },
+    {
+      "field": "naturalization_index_eastern_district",
+      "note": "Indexed as 'Benie Hyner'",
+      "status": "established",
+      "source": "FamilySearch — New York Eastern District Naturalization Petitions Index 1865-1957",
+      "ark": "ark:/61903/1:1:XGFC-D3V",
+      "date_added": "2026-05-20",
+      "url": "https://www.familysearch.org/search/collection/results?count=20&q.givenName=Benjamin&q.surname=Hiner&collection_id=1807627"
+    },
+    {
+      "field": "naturalization_declaration_1941",
+      "date": "1941",
+      "note": "US District Court Declaration of Intention. Cert #311128. Born 14 Mar 1884, Grodna Poland. Wife Becky.",
+      "status": "established",
+      "source": "FamilySearch — Brooklyn Naturalization Records (cc=2060123)",
+      "ark": "ark:/61903/1:1:68LT-KJ2F",
+      "date_added": "2026-05-20",
+      "url": "https://www.familysearch.org/search/record/results?collection_id=2060123&q.givenName=Benjamin&q.surname=Hiner&q.birthYear=1884&q.birthYearRange=5"
+    },
+    {
+      "field": "naturalization_petition_1941",
+      "date": "1941",
+      "note": "US District Court Naturalization Petition. Wife Becky from Suwalki Russia. Ship name field NOT indexed.",
+      "status": "established",
+      "source": "FamilySearch — Brooklyn Naturalization Records (cc=2060123)",
+      "ark": "ark:/61903/1:1:6PTJ-7RSD",
+      "image_ark": "3:1:3Q9M-CSMK-3QK9-T",
+      "date_added": "2026-05-20",
+      "url": "https://www.familysearch.org/search/record/results?collection_id=2060123&q.givenName=Benjamin&q.surname=Hiner&q.birthYear=1884&q.birthYearRange=5"
+    },
+    {
+      "field": "naturalization_final_1943_1944",
+      "status": "established",
+      "source": "FamilySearch",
+      "ark": "ark:/61903/1:1:6PRG-H6MF",
+      "date_added": "2026-05-20",
+      "url": "https://www.familysearch.org/search/collection/results?count=20&q.givenName=Benjamin&q.surname=Hiner&collection_id=2060123"
+    },
+    {
+      "field": "wwii_draft_card",
+      "date": "1942",
+      "note": "Indexed as 'Benny Hyner'. Confirms Slonim birthplace. Address: 937 Christopher Ave, Brooklyn.",
+      "status": "established",
+      "source": "FamilySearch",
+      "ark": "ark:/61903/1:1:F3CL-WZV",
+      "date_added": "2026-05-20",
+      "url": "https://www.familysearch.org/search/record/results?collection_id=1861144&q.givenName=Benjamin&q.surname=Hiner&q.birthYear=1884&q.birthYearRange=5"
+    },
+    {
+      "field": "death",
+      "date": "6 JAN 1946",
+      "place": "Brooklyn, New York, United States",
+      "status": "established",
+      "source": "FamilySearch",
+      "ark": "ark:/61903/1:1:2W2C-G4L",
+      "date_added": "2026-05-20",
+      "url": "https://www.familysearch.org/search/record/results?q.givenName=Benjamin&q.surname=Hiner&q.birthYear=1884&q.birthYearRange=5&q.deathPlace=Brooklyn%2C+New+York"
+    },
+    {
+      "field": "burial",
+      "date": "7 JAN 1946",
+      "place": "Queens, New York, United States",
+      "status": "established",
+      "source": "FamilySearch — Find a Grave Index",
+      "ark": "ark:/61903/1:1:QV25-SH6W",
+      "date_added": "2026-05-20",
+      "url": "https://www.findagrave.com/memorial/77774573/benjamin-hyner"
+    },
+    {
+      "field": "occupation",
+      "value": "Carpenter",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Benjamin-Hiner/6000000043680860536"
+    }
+  ],
+  "familysearch_profile": "GCN1-8ZQ",
+  "familysearch_profile_url": "https://www.familysearch.org/en/tree/person/details/GCN1-8ZQ",
+  "research_notes": [
+    {
+      "date": "2026-05-21",
+      "note": "Birth date discrepancy: 1917 nat. declaration says 11 Mar 1883 (Slonin Russia); 1941 nat. declaration says 14 Mar 1884 (Grodna Poland); GEDCOM (from Geni.com) says 15 Mar 1884. The 1884 dates are more consistent. The 1883 date may reflect rounding or memory error at time of filing."
+    },
+    {
+      "date": "2026-05-21",
+      "note": "ESTABLISHED SHIP MANIFEST: Boruch Yankowsky, SS Pennsylvania, Hamburg→New York, 2 Jan 1904, Line 0017, Image T715-0424-94, Passenger ID JFB6-923. Confirmed via Statue of Liberty Arrival Details tab (6-point match): (1) Hebrew name Boruch, (2) ship Pennsylvania, (3) 2 Jan 1904 arrival, (4) Hamburg departure, (5) last-residence Holenko = Golynka/Holinka (Yiddish: Holinke), Slonim District, Grodno Province (confirmed via JewishGen Communities Database), (6) line number 0017 explicitly confirmed in index. Manifest also shows: Marital Status = Single (confirms Beckie Marcus immigrated separately later), Age at Arrival = 18, Indexed year of birth = 1886 (inconsistent with nat. forms 1883/1884 — likely understated at entry). Traveling companions from same village Holenko: Naftoly Gasner, Abram Gordin, Meyer Chananowicz — consistent with chain-migration from small shtetl."
+    },
+    {
+      "date": "2026-05-21",
+      "note": "Surname evolution: Hynkavsky (pre-immigration) → various anglicizations on arrival. Manifest indexed surname 'Yankowsky' is a plausible transcription/phonetic variant (H dropped, yn→an, -sky suffix retained). FamilySearch full-text search found no results for Hynkavsky/Hinkofsky/Hinkavsky variants — surname was likely very rare or not indexed."
+    },
+    {
+      "date": "2026-05-21",
+      "note": "1940 Census found via 'Similar Records' panel on 1930 Census entry. Indexed as 'Benjamin Hegner' — indexer misread 'Hyner' as 'Hegner'. Wife Becky, sons Sidney and Irving. Brooklyn AD-23."
+    },
+    {
+      "date": "2026-05-22",
+      "note": "NYC Marriage Certificate M-K-1907-0005761 CONFIRMS parents: groom's father = 'Michel Honkofsky' (= Michael Hiner, GEDCOM I6000000043715363867) ✓; groom's mother = 'Goldy Litkofsky' (= Goldie Litcofsky, GEDCOM I6000000043715501935) ✓. Certificate surname 'Honkofsky' is a phonetic variant of 'Hynkavsky' — consistent with the ship manifest indexing 'Yankowsky' (same underlying Slavic name, different transcription). Both the GGG marriage index and the Municipal Archives confirm groom = 'Bennie Honkofsky', age 22, carpenter, birthplace Russia, resident 369 Sackman St., Brooklyn — all consistent with known facts. Also note: the name 'Sidney' for a son in the 1940 census could potentially reflect naming after bride's father — if the father's name on the marriage certificate reads 'Leidny' (possibly 'Leiby' or another form), a son named 'Sidney' could be an Americanization. Speculative but worth noting."
+    }
+  ],
+  "last_updated": "2026-05-22",
+  "generation": 3
+}

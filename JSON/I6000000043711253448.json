@@ -1,0 +1,151 @@
+{
+  "id": "I6000000043711253448",
+  "gedcom_xref": "@I6000000043711253448@",
+  "schema_version": 1,
+  "names": [
+    "Dora Marcus",
+    "Dora Abramowitz",
+    "Dora Abromovitze"
+  ],
+  "names_note": "Maiden name CONFIRMED as Abramowitz (rendered 'Abromovitze' in source) from Brooklyn marriage certificate M-K-1907-0005761 (daughter Beckie's marriage to Benjamin Honkofsky, 10 May 1907, Kings). The 'Mother's Maiden Name' field for the bride reads 'Dora Abromovitze' — giving both her first name (Dora) and maiden surname (Abramowitz/Abromovitz). 'Marcus' (= Markus) is her married name. Her Yiddish/Hebrew given name unknown — 'Dora' may be an Americanization of Dvorah, Deina, or another name.",
+  "sex": "F",
+  "relationships": {
+    "parents": [],
+    "probable_spouse": {
+      "id": "RES001-YakovMarkus",
+      "name": "[Leidny?] (Jacob/Yakov?) Markus",
+      "status": "possible",
+      "source": "Inferred: Suwalki PSA birth register 1887, Akta 48 names father as Yakov Abramovitch Markus and references 'his lawful wife' as mother of Riwka Markus; GEDCOM lists Dora Marcus as mother of Beckie Marcus. Marriage certificate M-K-1907-0005761 (bride's father field) shows '[Leidny?] Markas' — first name unclear at available image resolution.",
+      "notes": "The bride's father's name on the 1907 marriage certificate (Kings, cert 5761) reads '[Leidny?] Markas' — first name ambiguous at available zoom; possible readings include 'Leidny', 'Cidny', or a cursive form of another name. The surname 'Markas' (= Markus) is clearly legible, confirming the family. The Suwalki PSA Akta 48 names the father 'Yakov Abramovitch Markus' — it is possible the marriage certificate uses a different name form (e.g., American nickname vs. Yiddish name), or the father may have a different first name than 'Yakov'. Dora's maiden name Abramowitz (from the marriage certificate) is now established."
+    },
+    "spouses": [],
+    "children": [
+      {
+        "id": "I6000000043681164143",
+        "name": "Beckie Marcus",
+        "role": "child",
+        "status": "established",
+        "source": "GEDCOM export (Geni.com) / 1920 US Census / NYC Marriage Certificate M-K-1907-0005761"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "ABT 1860",
+      "place": "Unknown — likely Suwałki Gubernia or adjacent region, Russian Empire",
+      "place_note": "Daughter Beckie was born in Suwałki 1887; Dora likely from the same area but unconfirmed. Her maiden name Abramowitz may allow new search strategies in Suwalki PSA records.",
+      "status": "probable",
+      "source": "1920 US Census (FamilySearch ARK 1:1:MJT2-SZD): age 60, birth year estimated 1860, birthplace Russia. Both parents also born Russia. Consistent with GEDCOM/Geni data.",
+      "date_added": "2026-05-20",
+      "date_updated": "2026-05-23",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:MJT2-SZD"
+    },
+    {
+      "field": "immigration",
+      "date": "1908",
+      "date_status": "reported",
+      "description": "Per 1920 US Census, Dora Marcus immigrated approximately 1908 (self-reported to enumerator). Ship manifest not yet found despite exhaustive search under 'Dora Abramowitz', 'Dvorah Abramowitz', 'Deborah Abramowitz', and 'Dora Marcus/Markus' variants (Steve Morse White form, all ports, 1900-1915 — all candidates evaluated and rejected).",
+      "status": "probable",
+      "source": "1920 US Census, Household 188, Brooklyn AD 23 ED 1493, Kings, NY — FamilySearch ARK 1:1:MJT2-SZD, NARA T625, microfilm 1821182, image 255",
+      "date_added": "2026-05-21",
+      "date_updated": "2026-05-23",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:MJT2-SZD"
+    },
+    {
+      "field": "residence",
+      "date": "1920",
+      "place": "Brooklyn, Kings County, New York — Household 188, Assembly District 23, Enumeration District 1493 (with daughter Becca Hyner and son-in-law Ben Hyner)",
+      "status": "established",
+      "source": "1920 US Federal Census, FamilySearch ARK 1:1:MJT2-SZD, NARA T625, microfilm 1821182, image 255. FamilySearch Digital Folder 004966678.",
+      "date_added": "2026-05-23",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:MJT2-SZD"
+    },
+    {
+      "field": "marital_status",
+      "value": "Widowed",
+      "date": "BY 1920",
+      "description": "Dora was recorded as Widowed in the 1920 US Census, establishing that her husband (Yakov/Jacob Markus) had died before January 1920. Date of husband's death unknown.",
+      "status": "established",
+      "source": "1920 US Census (FamilySearch ARK 1:1:MJT2-SZD)",
+      "date_added": "2026-05-23",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:MJT2-SZD"
+    }
+  ],
+  "research_notes": [
+    {
+      "date": "2026-05-22",
+      "topic": "MAIDEN NAME CONFIRMED — Abramowitz — from marriage certificate",
+      "note": "NYC Marriage Certificate M-K-1907-0005761 (Kings/Brooklyn, 10 May 1907): daughter Beckie Markas married Bennie Honkofsky. The 'Mother's Maiden Name' field for the bride reads 'Dora Abromovitze' — confirming Dora's first name and her maiden surname as Abramowitz (Abromovitz). Certificate source: NYC Municipal Archives Historical Vital Records, a860-historicalvitalrecords.nyc.gov/view/8145195. This is a PRIMARY SOURCE confirmation. The maiden name Abramowitz was previously unknown; this opens new ship manifest search strategies (search 'Dora Abramowitz' / 'Dvorah Abramowitz' from Suwałki, ~1905-1912) and Suwalki PSA searches for the Abramowitz family."
+    },
+    {
+      "date": "2026-05-22",
+      "topic": "Witness signature — possible Abramowitz relative",
+      "note": "One of the two witnesses to the Beckie Marcus/Benjamin Honkofsky marriage (cert 5761, Kings, 1907) signed with the surname 'Abramowitz' (possibly 'K. Abramowitz' or 'H. Abramowitz' — first initial unclear). Given that Dora's maiden name was Abramowitz, this witness is likely a relative of Dora's (a sibling, cousin, or other family member). This corroborates the maiden name reading and suggests the Abramowitz family had emigrated to Brooklyn by 1907."
+    },
+    {
+      "date": "2026-05-22",
+      "topic": "Bride's father's name — marriage certificate reading ambiguous",
+      "note": "The 'Father's Name' field for the bride on cert 5761 reads '[Leidny?] Markas' — the first name is not clearly legible at available image resolution. Matthew (user) reads it as 'Leidny'; alternate reading 'Cidny' was also considered. Neither 'Leidny' nor 'Cidny' is an obvious Ashkenazi name. Possible identifications: (1) 'Leiby/Leiby' (diminutive of Leib/Lev); (2) 'Leizer' (Eliezer); (3) a cursive form of 'Yankel' (Yakov/Jacob) that has been misread; (4) an entirely different name from 'Yakov'. The surname 'Markas' (= Markus) is clearly legible, confirming this refers to Beckie's father. The Suwalki PSA Akta 48 independently names the father as 'Yakov Abramovitch Markus' — reconciliation of the first name requires a high-quality scan of the marriage certificate."
+    },
+    {
+      "date": "2026-05-21",
+      "topic": "Ship manifest search — Ellis Island, 1905-1912 — now superseded",
+      "note": "Earlier search for 'Dora Marcus' on Ellis Island (Steve Morse Gold/White forms) returned no matches for woman born ~1860. This search is now superseded — maiden name Abramowitz was unknown at time of search. NEW search target: 'Dora Abramowitz' or 'Dvorah Abramowitz', female, ~age 45-55, from Russia/Suwałki, 1905-1912. Also search Boston, Philadelphia, Baltimore, and Canadian ports. The 1907 Abramowitz witness at Beckie's marriage suggests Dora's family (Abramowitz) had arrived in Brooklyn before mid-1907."
+    },
+    {
+      "date": "2026-05-21",
+      "topic": "Mother's name in Akta 48",
+      "note": "The Suwalki PSA birth register 1887, Akta 48 (Beckie/Riwka's birth record) states the father presented himself and 'his lawful wife' (законная жена его) bore the child. The wife's name should appear in the document formula but has not been confirmed from the scan at 42% zoom. A high-resolution scan may confirm 'Dora' (or her Yiddish equivalent Dvorah/Deina) as the wife's name."
+    },
+    {
+      "date": "2026-05-23",
+      "topic": "1920 US CENSUS CONFIRMED — Full household details — FamilySearch ARK 1:1:MJT2-SZD",
+      "note": "1920 US Federal Census (NARA T625, microfilm 1821182, image 255; FamilySearch Digital Folder 004966678): Dora Marcus, age 60, Female, White, Widowed, Mother-in-law, birthplace Russia, father's birthplace Russia, mother's birthplace Russia, immigration 1908. Brooklyn, Kings County, Assembly District 23, Enumeration District 1493, Household 188, Line 13 (or 14 — see image), Sheet A, Sheet 11. The record is already attached in the FamilySearch Family Tree to person ID GLVT-1K2. FULL HOUSEHOLD: (1) Ben Hyner (Head, M, 34, Russia, arrived 1902, married); (2) Becca Hyner (Wife, F, 33, Russia — = Beckie Marcus, born 1887 per Akta 48); (3) Sidney Hyner (Son, M, 11, New York — born ~1909); (4) Mildred Hyner (Daughter, F, 10, New York — born ~1910); (5) Beatrice Hyner (Daughter, F, 8, New York — born ~1912); (6) Israel Hyner (Son, M, 3y1m, New York — born ~late 1916/early 1917); (7) Dora Marcus (Mother-in-law, F, 60, Russia, widowed, 1908). KEY NEW FINDINGS: (a) Dora was widowed by 1920 — Yakov/Jacob Markus died before January 1920; (b) both of Dora's parents were born in Russia; (c) Beckie (Becca Hyner) born Russia, age 33 → birth year ~1887, perfectly consistent with Akta 48 (Riwka Markus, born Suwałki 1887); (d) husband 'Ben Hyner' born ~1886 Russia, arrived 1902 — this is Benjamin Honkofsky (married Beckie in Brooklyn, May 1907) who had Americanized his surname to 'Hyner' by 1920. NOTE ON SURNAME CHANGE: 'Honkofsky' → 'Hyner' is a substantial change — possible that Honkofsky reverted to or adopted a variant of an original Ashkenazi surname; the connection between 'Hyner' and 'Honkofsky' should be documented with supporting evidence."
+    },
+    {
+      "date": "2026-05-23",
+      "topic": "Next steps — UPDATED 2026-05-23",
+      "note": "Ship manifest search: Steve Morse White form (all ports, 1900-1915) exhausted for 'Dora*'/'Dvorah*'/'Deborah*' + 'Abramow*' — all candidates evaluated and rejected. 'Dora Marcus/Markus' also returned no matches. REMAINING MANIFEST STRATEGIES: (1) Try 'D*' + 'Abramow*' with town of origin = Suwalki on Steve Morse White form; (2) Search JewishGen EIDB for Abramowitz/Markus from Suwałki; (3) Search Boston HIAS/Canadian ports (Quebec, Halifax) — these are not in the Steve Morse White form index; (4) Manifest may be missing from index — search microfilm directly via NARA T715 (Ellis Island 1897-1957) browse. CENSUS/VITAL RECORDS REMAINING: (1) Search 1905 NY State Census for 'Becca Honkofsky' or 'Becca Marcus' in Brooklyn — Beckie married Ben in 1907, so in 1905 she may have been a boarder or not yet arrived; (2) Search 1910 US Federal Census for the Honkofsky/Hyner household — should show Beckie's immigration year and early children; (3) Search for death record for Dora Marcus / Dora Hyner in Brooklyn — she was born ~1860 and widowed by 1920, likely died 1920s-1940s; (4) Search for death record for Yakov/Jacob Markus — died before 1920, likely in Brooklyn. DOCUMENTS: (1) Order certified copy of NYC Marriage Certificate 5761 (Kings, 1907) to read bride's father's first name clearly; (2) Order high-resolution scan of Suwalki PSA Akta 48 to confirm mother's name."
+    }
+  ],
+  "rejected_records": [
+    {
+      "description": "Multiple 'Dora Marcus' results in Steve Morse Ellis Island Gold form (1906-1910), female — all ages 11 and 18, far too young for a woman born ~1860",
+      "status": "rejected",
+      "date": "2026-05-21"
+    },
+    {
+      "description": "Philadelphia 1913, SS Haverford (Liverpool→Philadelphia, arrived ~Nov 1913) — Dora Abramowitz, age 50, female, married, Tailoress, Russia/Hebrew. FamilySearch ARK 1:1:2379-6PB (indexed) / image 3:1:33SQ-GP1Z-S35V (image 490 of 1230, NARA T840 Roll 122, Vol. 193-194). Traveling with companion Wolf Abramowitz, age 16, male, single, Sailor (likely a son born ~1897).",
+      "status": "rejected",
+      "date": "2026-05-22",
+      "reasons_for_rejection": [
+        "Final destination: Md./Baltimore — our Dora was settled in Brooklyn, NY (Beckie married there in 1907; Dora living with Beckie in Brooklyn per 1920 census). Baltimore destination is inconsistent.",
+        "Last permanent residence: England/Leeds (manifest indicates approximately 6 years in Leeds) — our Dora was from Suwałki, Russia. A Suwałki-origin immigrant would typically show a Russian town, not an English city, as last permanent residence.",
+        "Nearest relative in origin country: 'Daughter to Abramowitz, 18 Rushworth St., Leeds' — the person left behind in England is a daughter at a Leeds address. Our Dora's daughter Beckie was in Brooklyn, NY, not Leeds.",
+        "5-year immigration date discrepancy: 1920 US Census states Dora's immigration year as 1908; this manifest is November 1913. A 5-year error in the census is possible but large, and taken together with the other mismatches argues against this being the same person."
+      ],
+      "alternative_scenario_considered": "Could Dora have emigrated Suwałki → Leeds (~1907) → Baltimore (1913) → Brooklyn? Theoretically possible (Leeds was a common Jewish settlement city in England), but the 'daughter in Leeds' contact and Baltimore destination both contradict known facts about our Dora. Not pursued further absent new evidence."
+    },
+    {
+      "description": "Baltimore 1907 — Dora Abramowicz, age 16 (born ~1891), ship Köln — FamilySearch ARKs 1:1:2CS2-R6V and 1:1:2CS2-RDV (same person, two index entries). Hard reject: ~30 years too young for our Dora (b. ~1860).",
+      "status": "rejected",
+      "date": "2026-05-22"
+    },
+    {
+      "description": "NY State Census 1915 — Dora Abramowitz, age 60 (born ~1855), Female, Boarder in household of Ethel Cooper (head, F, 24) and Max Cooper (M, 6). House No. 112, Page 09, Line 13, New York County (Manhattan). FamilySearch ARK 1:1:K925-B4K. Original image on Ancestry.com (paywalled).",
+      "status": "rejected",
+      "date": "2026-05-23",
+      "reasons_for_rejection": [
+        "Surname indexed as 'Abramowitz' — our Dora was married to Markus by at least 1887 (Akta 48) and would have been listed as 'Marcus' by 1915; she appears as 'Marcus' in the 1920 federal census.",
+        "Location: New York County (Manhattan) — our Dora was in Brooklyn (Kings County) per the 1920 census, living with daughter Beckie Honkofsky.",
+        "Household: boarding with Ethel Cooper (F, 24) and Max Cooper (M, 6) — no connection to Marcus, Honkofsky, or Abramowitz family members visible in household.",
+        "Age 60 in 1915 implies birth ~1855 — slightly older than our estimate (~1860), though within census rounding range. Not determinative on its own, but adds to cumulative mismatch."
+      ],
+      "note": "Original image paywalled on Ancestry; could not confirm street name, ward, or nativity fields. Soft rejection — could theoretically be reconsidered if Ancestry image shows Suwałki birthplace and a connection to the Marcus/Honkofsky family is identified, but indexed data makes this unlikely."
+    }
+  ],
+  "last_updated": "2026-05-23",
+  "familysearch_tree_id": "GLVT-1K2",
+  "generation": 4
+}

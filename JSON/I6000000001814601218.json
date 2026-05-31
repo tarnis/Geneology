@@ -1,0 +1,74 @@
+{
+  "id": "I6000000001814601218",
+  "gedcom_xref": "@I6000000001814601218@",
+  "schema_version": 1,
+  "names": [
+    "David Sherman"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000001814601203",
+        "name": "Israel Sherman"
+      },
+      {
+        "id": "I6000000001814610532",
+        "name": "Itka Zimmerman"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000081000502998",
+        "name": "Jean Sweedler"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000002651532168",
+        "name": "Louise Sherman"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "27 OCT 1907",
+      "place": "Brooklyn, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/David-Sherman/6000000001814601218"
+    },
+    {
+      "field": "death",
+      "date": "16 APR 1978",
+      "place": "Deerfield Beach, Florida, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/David-Sherman/6000000001814601218"
+    },
+    {
+      "field": "occupation",
+      "value": "Bookkeeper, Insurance",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/David-Sherman/6000000001814601218"
+    },
+    {
+      "field": "marriage",
+      "value": "to Jean Sweedler",
+      "date": "20 NOV 1933",
+      "place": "New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/David-Sherman/6000000001814601218"
+    }
+  ],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 2
+}

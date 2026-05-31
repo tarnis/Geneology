@@ -1,0 +1,310 @@
+{
+  "id": "I6000000043681164143",
+  "gedcom_xref": "@I6000000043681164143@",
+  "schema_version": 1,
+  "names": [
+    "Beckie Marcus",
+    "Beckie Hiner",
+    "Becca Hyner",
+    "Riwka Markus",
+    "Rebecca Hiner"
+  ],
+  "sex": "F",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000043711253448",
+        "name": "Dora Marcus",
+        "role": "mother",
+        "status": "established",
+        "source": "GEDCOM export (Geni.com) / 1920 US Census"
+      }
+    ],
+    "probable_father": {
+      "id": "RES001-YakovMarkus",
+      "name": "[Leidny?] (Jacob/Yakov?) Markus",
+      "hebrew_yiddish": "Unknown first name; Markus/Marcus surname confirmed",
+      "status": "possible",
+      "source": "Suwalki PSA birth register 1887, Akta 48 (father named as Yakov Abramovitch Markus); NYC Marriage Certificate M-K-1907-0005761 (bride's father listed as '[Leidny?] Markas')",
+      "notes": "Two independent sources, with partial conflict on the first name. (1) Suwalki PSA Akta 48 (1887): father reads as 'Яков Абрамович Маркус' — Yakov (Jacob/Yankel), patronymic Abramovitch clearly legible, age ~49 in 1887, meshchanin of Suwałki. First name reading at 42% zoom; alternate reading 'Борух' (Boruch) possible. (2) NYC Marriage Certificate M-K-1907-0005761 (1907): bride's Father's Name field reads '[Leidny?] Markas' — first name ambiguous; possible readings include 'Leidny', 'Cidny', or a cursive form of another name. Surname 'Markas' confirmed in both sources. The discrepancy in the first name between the two sources could reflect: (a) different name forms (Russian Yakov vs. American nickname); (b) misreading of cursive in one or both sources; (c) the certificate was filled in by the bride who used a different name form for her father. A high-quality scan of cert 5761 is needed to resolve."
+    },
+    "probable_grandfather_paternal": {
+      "name": "Abraham (Abram) Markus",
+      "status": "possible",
+      "source": "Derived from father's patronymic 'Абрамович' in Suwalki 1887 birth register",
+      "notes": "The father's patronymic confirms grandfather's first name was Abram/Abraham Markus. No other details known."
+    },
+    "spouses": [
+      {
+        "id": "I6000000043680860536",
+        "name": "Benjamin Hiner"
+      }
+    ],
+    "children": [
+      {
+        "id": "GCN1-4FL",
+        "name": "Sidney/Sydney Hiner Hyner",
+        "born": "24 March 1908",
+        "born_place": "Brooklyn, Kings, New York",
+        "source": "NYC Birth Certificate FamilySearch ARK 1:1:2WZK-6F3"
+      },
+      {
+        "id": "GCN1-FQJ",
+        "name": "Millie/Mildred Hiner Hyner",
+        "born": "~1910",
+        "born_place": "New York",
+        "source": "1910 US Census (ARK 1:1:M54Z-YVN); 1920 Census (age 10)"
+      },
+      {
+        "id": "GLVT-52V",
+        "name": "Beatrice Hyner",
+        "born": "~1912",
+        "born_place": "New York",
+        "source": "1920 US Census (age 8); FamilySearch tree GCN1-M18"
+      },
+      {
+        "id": "GB7P-YSN",
+        "name": "Irving Hyner (= Israel Hyner in 1920 census)",
+        "born": "~1916-1917",
+        "born_place": "New York",
+        "source": "1920 US Census (Israel, age 3y1m); FamilySearch tree GCN1-M18 (listed as Irving)"
+      }
+    ],
+    "probable_twin": {
+      "name": "Abram Bejnes Markus",
+      "status": "possible",
+      "source": "JRI-Poland, Suwalki PSA Fond 204, Akta 47, 1887 (registered same day as Riwka, Akta 48, consecutive akta numbers, same father)",
+      "notes": "Consecutive akta (47 = Abram Bejnes, 48 = Riwka) registered same day suggests twins. Same father: Yakov Abramovitch Markus."
+    }
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "5 MAR 1888",
+      "date_alt": "9 MAR 1887 (Julian) / 21 MAR 1887 (Gregorian)",
+      "place": "Suwałki, Suwałki Gubernia, Russian Empire (now NE Poland)",
+      "status": "established",
+      "source": "SSDI (date); birthplace from Benjamin Hiner 1941 naturalization petition (FamilySearch ark:/61903/1:1:6PTJ-7RSD and ark:/61903/1:1:6PTJ-7RS6). Birth record Akta 48 gives 1887 date — 1-year discrepancy common in immigration records.",
+      "date_added": "2026-05-20",
+      "date_updated": "2026-05-21",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:6PTJ-7RSD"
+    },
+    {
+      "field": "death",
+      "date": "9 JAN 1967",
+      "place": "Queens/Hempstead, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Beckie-Marcus/6000000043681164143"
+    },
+    {
+      "field": "burial",
+      "place": "Mount Hebron Cemetery, Queens, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Beckie-Marcus/6000000043681164143"
+    },
+    {
+      "field": "birth_record",
+      "description": "Suwalki PSA Jewish birth register 1887, Akta 48 — child named Рювка (Rywka/Rivka/Rebecca) Markus",
+      "archive": "Archiwum Państwowe w Suwałkach",
+      "reference_code": "63/204/0/1/56",
+      "scan": 27,
+      "url": "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/14210898?p_p_id=Jednostka&_Jednostka_delta=1&_Jednostka_cur=27",
+      "jri_poland_entry": "MARKUS Riwka 1887 B 48 (Suwalki PSA Births/Marriages/Deaths, Fond 204)",
+      "status": "possible",
+      "source": "szukajwarchiwach.gov.pl unit 14210898, scan 27. Child's name 'Рювка' confirmed visually in document image.",
+      "date_added": "2026-05-21",
+      "match_criteria": [
+        "Name: Rywka/Riwka = Beckie (Rivka → Rebecca → Beckie) ✓",
+        "Year: 1887 (document) vs 1888 (SSDI) — 1-yr discrepancy typical ✓",
+        "Place: Suwałki confirmed from husband's 1941 naturalization ✓",
+        "Surname: Markus = Marcus ✓",
+        "Consecutive akta 47/48 registered same day = likely twins (Abram Bejnes + Riwka)"
+      ]
+    },
+    {
+      "field": "marriage",
+      "date": "10 MAY 1907",
+      "place": "Brooklyn (Kings County), New York",
+      "spouse": "Benjamin Honkofsky (= Benjamin Hiner/Hyner)",
+      "certificate_number": "5761",
+      "certificate_id": "M-K-1907-0005761",
+      "certificate_type": "Health Department Marriage Certificate",
+      "ceremony_location": "71 Belmont Ave, Brooklyn, NY",
+      "officiant": "Rabbi D. Radnky (or similar), Official Station 113 Belmont Ave, Brooklyn",
+      "status": "established",
+      "source": "NYC Municipal Archives Historical Vital Records, M-K-1907-0005761 (a860-historicalvitalrecords.nyc.gov/view/8145195)",
+      "details": {
+        "bride_name_on_cert": "Beckie Markas",
+        "groom_name_on_cert": "Bennie Honkofsky",
+        "bride_age": "20 years",
+        "bride_birthplace": "Russia",
+        "bride_residence": "369 Sackman St., Brooklyn",
+        "bride_father": "[Leidny?] Markas (first name ambiguous at available image resolution)",
+        "bride_mother_maiden": "Dora Abromovitze (= Dora Abramowitz — MAIDEN NAME CONFIRMED)",
+        "groom_age": "22 years",
+        "groom_birthplace": "Russia",
+        "groom_occupation": "Carpenter",
+        "groom_father": "Michel Honkofsky (= Michael Hiner)",
+        "groom_mother_maiden": "Goldy Litkofsky (= Goldie Litcofsky)",
+        "witnesses": [
+          "a. Mar[?]",
+          "K/H Abramowitz (likely relative of Dora née Abramowitz)"
+        ]
+      },
+      "date_added": "2026-05-22",
+      "url": "https://a860-historicalvitalrecords.nyc.gov/view/8145195"
+    },
+    {
+      "field": "immigration",
+      "description": "Immigrated separately from husband Benjamin Hyner/Hiner. PROBABLE MANIFEST IDENTIFIED: Riwke Marcus, SS Roland, Hamburg → Ellis Island, 24 March 1905 (see immigration_manifest_candidate below). She was resident in Brooklyn by May 1907 (marriage certificate). Mother Dora Marcus immigrated 1908 per 1920 census.",
+      "status": "probable",
+      "source": "1907 Brooklyn marriage certificate (resident 369 Sackman St, Brooklyn); 1920 census (mother Dora immigration 1908); FamilySearch ARK 1:1:JF3X-ZZX (probable manifest — see below)",
+      "date_added": "2026-05-21",
+      "date_updated": "2026-05-23",
+      "notes": "PROBABLE MANIFEST FOUND: Riwke Marcus (ARK 1:1:JF3X-ZZX), arrived 24 March 1905, SS Roland, Hamburg → Ellis Island. See immigration_manifest_candidate fact for full details and analysis. NOTE ON BEN HYNER IMMIGRATION: The 1920 census records Ben Hyner's arrival year as 1902, but the previously-identified SS Pennsylvania manifest (2 Jan 1904, Slonim → Philadelphia) shows a 'Benjamin Hiner'. This is a 2-year discrepancy. Either: (a) the 1920 census year (1902) is a self-reporting error; (b) the 1904 manifest is a different person; or (c) Ben arrived twice. The connection between 'Honkofsky' (1907 marriage cert) and 'Hyner/Hiner' (1920 census, GEDCOM) needs documentary confirmation — these could be the same person with an Americanized surname, or two different people.",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:JF3X-ZZX"
+    },
+    {
+      "field": "immigration_manifest_candidate",
+      "description": "PROBABLE ship manifest for Beckie Marcus: Riwke Marcus, SS Roland, Hamburg → Ellis Island, 24 March 1905",
+      "status": "probable",
+      "source": "New York, Passenger Arrival Lists (Ellis Island), 1892-1925. FamilySearch ARK 1:1:JF3X-ZZX. Film 005262965 (NARA T715 Roll 548), Image 704, List 32.",
+      "manifest_data": {
+        "name_on_manifest": "Riwke Marcus",
+        "sex": "Female",
+        "age": 18,
+        "marital_status_indexed": "Married",
+        "nationality": "Russia, Hebrew",
+        "ship": "SS Roland",
+        "departure_port": "Hamburg",
+        "arrival_port": "Ellis Island, New York City",
+        "arrival_date": "24 March 1905",
+        "last_residence_indexed": "N/A (not indexed for this collection)",
+        "contact_person": "Hersch Basenberg",
+        "contact_relationship_indexed": "Br I L (Brother-In-Law)",
+        "co_traveler": "Hersch Marcus, Male, 28, Married, Russia Hebrew — same contact (Hersch Basenberg). Likely Riwke's brother.",
+        "nara_roll": "T715-0548",
+        "familysearch_film": "005262965",
+        "image_number": 704,
+        "list_number": 32
+      },
+      "match_criteria": [
+        "Name: Riwke = Rivka = Rebecca = Beckie ✓",
+        "Surname: Marcus ✓",
+        "Sex: Female ✓",
+        "Age: 18 in March 1905 → born ~1887, consistent with Akta 48 (1887) and 1910 census (age 21) ✓",
+        "Nationality: Russia, Hebrew ✓",
+        "Timing: Arrived March 1905 — predates May 1907 Brooklyn marriage ✓",
+        "No other viable candidates found after exhaustive search under all spelling variants (Rivka/Rywka/Riwka/Rebecca/Rifke + Markus/Marcus/Markas, 1900-1907) via Steve Morse White form + JewishGen EIDB ✓"
+      ],
+      "key_flag": "MARITAL STATUS 'MARRIED' IN INDEX — NEEDS ORIGINAL IMAGE VERIFICATION. Possible explanations: (1) Indexer error — handwritten 'S' (single) misread as 'M' (married); (2) Riwke was genuinely married in Russia before 1905, was widowed or divorced, then remarried Benjamin Honkofsky in Brooklyn 1907. The 'Brother-In-Law' contact (Hersch Basenberg) is consistent with scenario (1): Riwke's sister (née Marcus) married Hersch Basenberg and emigrated earlier; Riwke is going to join her sister's household. Hersch Marcus (28, Married, same contact) is most likely Riwke's brother also emigrating. Hersch Marcus's wife may have stayed behind in Russia temporarily.",
+      "verification_needed": [
+        "View original handwritten manifest image (Film 005262965, Image 704) to read the marital status column for Riwke Marcus's row — confirm 'Married' vs 'Single'",
+        "Read last-residence town from original image (col. 9 of 1903 manifest) — looking for Suwałki or Suwałki Gubernia",
+        "Read full contact address for Hersch Basenberg — looking for Brooklyn address"
+      ],
+      "date_added": "2026-05-23",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:JF3X-ZZX"
+    },
+    {
+      "field": "residence",
+      "date": "1910",
+      "place": "Brooklyn Ward 26, Kings County, New York (Sheet B, Sheet 11) — with husband Benjamin Hiner and children Sidney (2) and Millie (0)",
+      "status": "established",
+      "source": "1910 US Federal Census, FamilySearch ARK 1:1:M54Z-YVX (Rebecca Hiner, Wife, age 21, Russia). NARA T624, microfilm 1374991, image 257, Digital Folder 004972958.",
+      "notes": "Immigration year column not captured in FamilySearch index for Rebecca's row. Original image (microfilm 1374991, image 257) must be viewed to obtain her immigration year.",
+      "date_added": "2026-05-23",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:M54Z-YVX"
+    },
+    {
+      "field": "child_birth_record",
+      "description": "NYC Birth Certificate for son Sydney/Sidney Hiner — lists mother as 'Becky Marcus' (maiden surname), father as 'Bennie Hiner'",
+      "child_name": "Sydney Hiner",
+      "event_date": "24 March 1908",
+      "event_place": "Brooklyn, Kings, New York",
+      "father_on_cert": "Bennie Hiner",
+      "mother_on_cert": "Becky Marcus",
+      "source_details_number": "10674",
+      "status": "established",
+      "source": "New York, New York City Births, 1846-1909. FamilySearch ARK 1:1:2WZK-6F3. Digital Folder 004207184, Microfilm 1993077, Image 81.",
+      "significance": "CONFIRMS Beckie's maiden surname 'Marcus' still used on 1908 city documents, consistent with the 1907 marriage cert (which listed her as 'Beckie Markas'). Also fixes Sidney's exact birth date to 24 March 1908.",
+      "date_added": "2026-05-23",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:2WZK-6F3"
+    },
+    {
+      "field": "residence",
+      "date": "1920",
+      "place": "Brooklyn, Kings County, New York — Household 188, Assembly District 23, Enumeration District 1493 (head of household with husband Ben Hyner and four children)",
+      "status": "established",
+      "source": "1920 US Federal Census, FamilySearch ARK 1:1:MJT2-SZD (indexed as 'Becca Hyner'). Same record confirms mother Dora Marcus (ARK for Dora: 1:1:MJT2-SZD).",
+      "date_added": "2026-05-23",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:MJT2-SZD"
+    }
+  ],
+  "research_notes": [
+    {
+      "date": "2026-05-22",
+      "session": "NYC marriage certificate session",
+      "summary": "Located and viewed NYC Marriage Certificate M-K-1907-0005761 (Kings/Brooklyn, 10 May 1907) via NYC Municipal Archives Historical Vital Records (a860-historicalvitalrecords.nyc.gov). Certificate was found via German Genealogy Group (GGG) brides index: 'Markas, Beckie — May 10, 1907 — Kings — Cert #5761'; groom lookup returned 'Honkofsky, Bennie — May 10, 1907 — Cert #5761 — Kings'. Certificate confirms: (1) Bride = Beckie Markas, age 20, birthplace Russia, resident 369 Sackman St Brooklyn; (2) Groom = Bennie Honkofsky, age 22, carpenter, birthplace Russia; (3) CRITICAL — bride's mother's maiden name = 'Dora Abromovitze' (= Dora Abramowitz) — CONFIRMS Dora's maiden name previously unknown; (4) bride's father = '[Leidny?] Markas' — first name ambiguous; (5) groom's father = Michel Honkofsky (= Michael Hiner, confirmed); (6) groom's mother = Goldy Litkofsky (= Goldie Litcofsky, confirmed); (7) witness 'K/H Abramowitz' — likely relative of Dora née Abramowitz."
+    },
+    {
+      "date": "2026-05-21",
+      "session": "Suwalki PSA research session",
+      "summary": "Located probable birth record for Beckie Marcus in the Suwalki Jewish civil registry (1887). JRI-Poland legacy search for MARKUS/Phonetically-like in Suwalki Gubernia returned 267 records including 'MARKUS Riwka 1887 B 48' in Fond 204 (Suwalki PSA archive). Navigated to szukajwarchiwach.gov.pl and viewed scan 27 of unit 14210898 (ref code 63/204/0/1/56). Document confirmed: child named 'Рювка' (Rywka/Rivka), registered same day and consecutively with 'Abram Bejnes' (Akta 47, likely twin). Father identified from two in-document mentions as '[Яков] Абрамович Маркус' — first name reads as Yakov (Jacob/Yankel); patronymic Абрамович (son of Abraham/Abram) clearly legible. Father age ~49 in 1887, meshchanin of Suwalki."
+    },
+    {
+      "date": "2026-05-21",
+      "topic": "Father's name confidence",
+      "note": "The father's first name appears in two places in the document: (1) the opening formula 'явился [NAME] Абрамовичу...' and (2) 'отец его [NAME] Абрамовичу сорока лет'. Both instances read as approximately 'Яков' (Yakov = Jacob). The patronymic 'Абрамович' is clearly legible. An alternate reading of 'Борух' (Boruch/Baruch) for the first name is possible but less supported. Image resolution at 42% zoom (szukajwarchiwach.gov.pl viewer) limits certainty. Recommend ordering high-resolution scan via 'Order larger format' on szukajwarchiwach.gov.pl or contacting Archiwum Państwowe w Suwałkach directly."
+    },
+    {
+      "date": "2026-05-21",
+      "topic": "Date discrepancy (1887 vs 1888)",
+      "note": "The Suwalki birth register gives 9 March 1887 (Julian calendar) = 21 March 1887 (Gregorian). SSDI gives 5 March 1888. A one-year discrepancy is extremely common in Ashkenazi immigration records — years were often misrecalled or shifted. The name, place, and surname match strongly support this being the correct Beckie Marcus. Recommend checking if there is also an 1888 Riwka Markus birth in the same archive to rule out a later sibling."
+    },
+    {
+      "date": "2026-05-21",
+      "topic": "Dora Marcus — mother",
+      "note": "Dora Marcus (b. ~1860) is Beckie's probable mother per GEDCOM and 1920 census data. Dora Marcus ship manifest not found — searched Ellis Island 1905-1912 via Steve Morse Gold and White forms with no matches for a ~48-year-old woman from Russia. May have arrived under a maiden name, via a non-NY port, or the 1908 immigration year from the 1920 census may be inaccurate."
+    },
+    {
+      "date": "2026-05-23",
+      "topic": "1920 US CENSUS — Full household confirmed — FamilySearch ARK 1:1:MJT2-SZD",
+      "note": "1920 US Federal Census (NARA T625, microfilm 1821182, image 255): Beckie appears as 'Becca Hyner', age 33, Female, Russia, Married, Wife (to head Ben Hyner). Brooklyn, Kings County, Assembly District 23, ED 1493, Household 188. Her birth year 1887 (from age 33 in 1920) matches Akta 48 exactly. Ben Hyner (husband, Head): M, 34, Russia, arrived 1902 — NOTE: this is 2 years earlier than the SS Pennsylvania manifest (2 Jan 1904) previously identified for 'Benjamin Hiner'; the 1920 census year (1902) may be a self-report error, or the 1904 manifest may be a different person. CHILDREN IN 1920 HOUSEHOLD: (1) Sidney Hyner, M, 11, New York (born ~1909); (2) Mildred Hyner, F, 10, New York (born ~1910); (3) Beatrice Hyner, F, 8, New York (born ~1912); (4) Israel Hyner, M, 3 years 1 month, New York (born ~late 1916/early 1917). Mother-in-law: Dora Marcus (F, 60, Russia, widowed, arrived 1908)."
+    },
+    {
+      "date": "2026-05-23",
+      "session": "1910 census and NYC Births session",
+      "summary": "Located 1910 US Census household for Benjamin Hiner (head, ARK 1:1:M54Z-YV6) and Rebecca Hiner (wife, ARK 1:1:M54Z-YVX) in Brooklyn Ward 26. Benjamin born 1886 Russia (consistent with prior records); Rebecca born ~1889 Russia, age 21. Children in 1910: Sidney (M, 2, NY) and Millie (F, 0, NY). Immigration year for Rebecca NOT indexed in FamilySearch — requires viewing microfilm 1374991 image 257 to determine. FamilySearch tree person for Rebecca: GCN1-M18. FamilySearch tree person for Benjamin: GCN1-8ZQ. ALSO: Discovered NYC birth certificate for Sidney Hiner (ARK 1:1:2WZK-6F3, dated 24 March 1908, Brooklyn). Mother listed as 'Becky Marcus' — confirms maiden surname still used in 1908 official documents. Father listed as 'Bennie Hiner'. Source detail number 10674. FamilySearch tree shows all 4 children: Sidney (GCN1-4FL), Millie (GCN1-FQJ), Beatrice (GLVT-52V), Irving (GB7P-YSN)."
+    },
+    {
+      "date": "2026-05-23",
+      "session": "Ship manifest search session",
+      "summary": "Searched exhaustively for Beckie Marcus's ship manifest under all spelling variants (Rivka/Rywka/Riwka/Rifke/Rebecca + Markus/Marcus/Markas, female, age 13-22, arrival 1900-1907) via Steve Morse White form (all ports) and JewishGen EIDB (Ellis Island). BEST CANDIDATE IDENTIFIED: Riwke Marcus, Female, 18, Russia Hebrew, SS Roland, Hamburg → Ellis Island, 24 March 1905 (FamilySearch ARK 1:1:JF3X-ZZX, Film 005262965, Image 704, List 32). Contact person: Hersch Basenberg (indexed as 'Brother-In-Law'). Co-traveler: Hersch Marcus (Male, 28, Married, same contact) — likely Riwke's brother. KEY ISSUE: Index shows marital status as 'Married' — this is inconsistent with her 1907 marriage to Benjamin Honkofsky (which would be her first marriage). Likely explanations: (1) indexer error (S misread as M); or (2) she was briefly married/widowed in Russia before 1905. The 'Brother-In-Law' contact (Hersch Basenberg) is consistent with a sister (née Marcus) who married Basenberg and emigrated earlier. ORIGINAL IMAGE VERIFICATION REQUIRED to resolve the 'Married' question. Last Residence (town of origin) was NOT indexed for this collection — must be read from the original image."
+    },
+    {
+      "date": "2026-05-23",
+      "topic": "Hersch Basenberg — contact person on Riwke Marcus manifest",
+      "note": "Hersch Basenberg appears as contact person for BOTH Riwke Marcus (Female, 18) AND Hersch Marcus (Male, 28) on the 24 March 1905 SS Roland manifest. The relationship code 'Br I L' (Brother-In-Law) describes Hersch Basenberg's relationship to the immigrant(s). This strongly implies: (1) Riwke has a sister who married Hersch Basenberg and lives in the US; (2) Hersch Marcus is likely Riwke's brother, and Hersch Basenberg is therefore Hersch Marcus's brother-in-law through their common sister. If so, Riwke was SINGLE in 1905 (going to join her married sister), and the 'Married' status in the index is likely an error. NEXT STEP: Search NYC vital records and the 1905-1910 US Census for 'Mrs. Basenberg née Marcus' or 'Hersch/Herman/Henry Basenberg' in Brooklyn/New York — this could confirm the Marcus family network."
+    },
+    {
+      "date": "2026-05-23",
+      "topic": "Next steps — UPDATED 2026-05-23 (post manifest search)",
+      "note": "PRIORITY 1 (CRITICAL): View original manuscript image for the Riwke Marcus manifest — Film 005262965, Image 704 (FamilySearch film viewer). Read: (a) marital status column for her row; (b) last-residence/town column; (c) full contact address for Hersch Basenberg. This resolves the 'Married' question and may confirm Suwałki origin. PRIORITY 2: View microfilm 1374991 image 257 to read Rebecca Hiner's immigration year from the 1910 census original. PRIORITY 3: Search for Hersch/Herman Basenberg in NYC records 1900-1920 (Brooklyn) — likely married to a Marcus sister; would confirm the family network. PRIORITY 4: Confirm Ben Hyner = Benjamin Honkofsky — reconcile 1920 census arrival 1902 vs. SS Pennsylvania 1904. PRIORITY 5: Order high-quality scan of NYC Marriage Cert 5761 to read bride's father's first name. PRIORITY 6: Order high-res scan of Suwalki PSA Akta 48. PRIORITY 7: Search 1930 census and 1925 NY State census for Beckie Hyner (already in FamilySearch tree). PRIORITY 8: Find death record for Yakov/Jacob Markus (died before January 1920, Brooklyn)."
+    }
+  ],
+  "rejected_records": [
+    {
+      "description": "Multiple 'Dora Marcus' results in Steve Morse Ellis Island Gold form (1906-1910), female, ages 11 and 18 — too young for mother b. 1860",
+      "status": "rejected",
+      "date": "2026-05-21"
+    }
+  ],
+  "last_updated": "2026-05-23 (manifest search complete)",
+  "familysearch_tree_id": "GCN1-M18",
+  "generation": 3
+}

@@ -1,0 +1,324 @@
+{
+  "generated": "2026-05-20",
+  "source": "GEDCOM export (Geni.com)",
+  "proband": "I6000000002651532180",
+  "count": 39,
+  "people": [
+    {
+      "id": "I6000000002651532180",
+      "name": "Matthew Evan Hyner",
+      "sex": "M",
+      "generation": 0,
+      "birth": "21 AUG 1974",
+      "file": "I6000000002651532180.json"
+    },
+    {
+      "id": "I6000000001814601273",
+      "name": "Barry A Hyner",
+      "sex": "M",
+      "generation": 1,
+      "birth": "1 SEP 1946",
+      "file": "I6000000001814601273.json"
+    },
+    {
+      "id": "I6000000002651532168",
+      "name": "Louise Sherman",
+      "sex": "F",
+      "generation": 1,
+      "birth": "8 JUN 1947",
+      "file": "I6000000002651532168.json"
+    },
+    {
+      "id": "I6000000043681525821",
+      "name": "Ida Flaxman",
+      "sex": "F",
+      "generation": 2,
+      "birth": "28 AUG 1919",
+      "file": "I6000000043681525821.json"
+    },
+    {
+      "id": "I6000000043711578108",
+      "name": "Irving Hyner",
+      "sex": "M",
+      "generation": 2,
+      "birth": "17 NOV 1916",
+      "file": "I6000000043711578108.json"
+    },
+    {
+      "id": "I6000000001814601218",
+      "name": "David Sherman",
+      "sex": "M",
+      "generation": 2,
+      "birth": "27 OCT 1907",
+      "file": "I6000000001814601218.json"
+    },
+    {
+      "id": "I6000000081000502998",
+      "name": "Jean Sweedler",
+      "sex": "F",
+      "generation": 2,
+      "birth": "17 AUG 1912",
+      "file": "I6000000081000502998.json"
+    },
+    {
+      "id": "I6000000078496084915",
+      "name": "Mordechai Flaksman",
+      "sex": "M",
+      "generation": 3,
+      "birth": "5 MAR 1893",
+      "file": "I6000000078496084915.json"
+    },
+    {
+      "id": "I6000000043680860536",
+      "name": "Benjamin Hiner",
+      "sex": "M",
+      "generation": 3,
+      "birth": "15 MAR 1884",
+      "file": "I6000000043680860536.json"
+    },
+    {
+      "id": "I6000000080839712368",
+      "name": "Jennie Dickstein Kaufman",
+      "sex": "F",
+      "generation": 3,
+      "birth": "1 JUN 1895",
+      "file": "I6000000080839712368.json"
+    },
+    {
+      "id": "I6000000043681164143",
+      "name": "Beckie Marcus",
+      "sex": "F",
+      "generation": 3,
+      "birth": "5 MAR 1888",
+      "file": "I6000000043681164143.json"
+    },
+    {
+      "id": "I6000000001814601203",
+      "name": "Israel Sherman",
+      "sex": "M",
+      "generation": 3,
+      "birth": "15 SEP 1886",
+      "file": "I6000000001814601203.json"
+    },
+    {
+      "id": "I6000000043680087300",
+      "name": "Louis Svidler",
+      "sex": "M",
+      "generation": 3,
+      "birth": "ABT 1872",
+      "file": "I6000000043680087300.json"
+    },
+    {
+      "id": "I6000000001814610532",
+      "name": "Itka Zimmerman",
+      "sex": "F",
+      "generation": 3,
+      "birth": "ABT 1887",
+      "file": "I6000000001814610532.json"
+    },
+    {
+      "id": "I6000000088603414914",
+      "name": "Anna Esther Zuckerman",
+      "sex": "F",
+      "generation": 3,
+      "birth": "ABT 1874",
+      "file": "I6000000088603414914.json"
+    },
+    {
+      "id": "I6000000080839648408",
+      "name": "Celia Berkman",
+      "sex": "F",
+      "generation": 4,
+      "birth": "ABT 1879",
+      "file": "I6000000080839648408.json"
+    },
+    {
+      "id": "I6000000083479703946",
+      "name": "Estel Blumfield",
+      "sex": "F",
+      "generation": 4,
+      "birth": null,
+      "file": "I6000000083479703946.json"
+    },
+    {
+      "id": "I3297036",
+      "name": "Esther Dora Dvora",
+      "sex": "F",
+      "generation": 4,
+      "birth": null,
+      "file": "I3297036.json"
+    },
+    {
+      "id": "I6000000078411217125",
+      "name": "Abraham Chaim Flaksman",
+      "sex": "M",
+      "generation": 4,
+      "birth": "1845",
+      "file": "I6000000078411217125.json"
+    },
+    {
+      "id": "I6000000043715363867",
+      "name": "Michael Hiner",
+      "sex": "M",
+      "generation": 4,
+      "birth": null,
+      "file": "I6000000043715363867.json"
+    },
+    {
+      "id": "I6000000080840141299",
+      "name": "Samuel Kaufman",
+      "sex": "M",
+      "generation": 4,
+      "birth": "ABT 1873",
+      "file": "I6000000080840141299.json"
+    },
+    {
+      "id": "I6000000043715501935",
+      "name": "Goldie Litcofsky",
+      "sex": "F",
+      "generation": 4,
+      "birth": null,
+      "file": "I6000000043715501935.json"
+    },
+    {
+      "id": "I6000000043711253448",
+      "name": "Dora Marcus",
+      "sex": "F",
+      "generation": 4,
+      "birth": "1860",
+      "file": "I6000000043711253448.json"
+    },
+    {
+      "id": "I6000000078496155852",
+      "name": "Heni Sapler",
+      "sex": "F",
+      "generation": 4,
+      "birth": "ABT 1848",
+      "file": "I6000000078496155852.json"
+    },
+    {
+      "id": "I6000000001814601212",
+      "name": "Yakov Sherman",
+      "sex": "M",
+      "generation": 4,
+      "birth": null,
+      "file": "I6000000001814601212.json"
+    },
+    {
+      "id": "I6000000083478932628",
+      "name": "Leib Svidler",
+      "sex": "M",
+      "generation": 4,
+      "birth": null,
+      "file": "I6000000083478932628.json"
+    },
+    {
+      "id": "I6000000116361457504",
+      "name": "Unknown",
+      "sex": "F",
+      "generation": 4,
+      "birth": null,
+      "file": "I6000000116361457504.json"
+    },
+    {
+      "id": "I3297026",
+      "name": "Jack (Yankel) David Zimmerman",
+      "sex": "M",
+      "generation": 4,
+      "birth": "ABT 1870",
+      "file": "I3297026.json"
+    },
+    {
+      "id": "I6000000116361457501",
+      "name": "Zuckerman",
+      "sex": "M",
+      "generation": 4,
+      "birth": null,
+      "file": "I6000000116361457501.json"
+    },
+    {
+      "id": "I6000000078496698298",
+      "name": "Sima Flaksman",
+      "sex": "F",
+      "generation": 5,
+      "birth": null,
+      "file": "I6000000078496698298.json"
+    },
+    {
+      "id": "I6000000078497194854",
+      "name": "Yossef Flaksman",
+      "sex": "M",
+      "generation": 5,
+      "birth": null,
+      "file": "I6000000078497194854.json"
+    },
+    {
+      "id": "I6000000080840673895",
+      "name": "Meyer Kaufman",
+      "sex": "M",
+      "generation": 5,
+      "birth": null,
+      "file": "I6000000080840673895.json"
+    },
+    {
+      "id": "I6000000080840342097",
+      "name": "Rose Mandell",
+      "sex": "F",
+      "generation": 5,
+      "birth": null,
+      "file": "I6000000080840342097.json"
+    },
+    {
+      "id": "I6000000005945314016",
+      "name": "Elie Sapler",
+      "sex": "M",
+      "generation": 5,
+      "birth": "ABT 1830",
+      "file": "I6000000005945314016.json"
+    },
+    {
+      "id": "I6000000078496575399",
+      "name": "Malka Sapler",
+      "sex": "F",
+      "generation": 5,
+      "birth": null,
+      "file": "I6000000078496575399.json"
+    },
+    {
+      "id": "I3318281",
+      "name": "Rose Zimmerman",
+      "sex": "F",
+      "generation": 5,
+      "birth": "1880",
+      "file": "I3318281.json"
+    },
+    {
+      "id": "I3318278",
+      "name": "Sam Zimmerman",
+      "sex": "M",
+      "generation": 5,
+      "birth": "1875",
+      "file": "I3318278.json"
+    },
+    {
+      "id": "RES001-YakovMarkus",
+      "name": "Yakov (Jacob) Abramovitch Markus",
+      "sex": "M",
+      "generation": 4,
+      "birth": "ABT 1838",
+      "status": "possible",
+      "research_note": "Not in original GEDCOM. Identified 2026-05-21 from Suwalki PSA 1887 birth register, Akta 48 (Beckie Marcus's birth record). Probable father of Beckie Marcus.",
+      "file": "RES001-YakovMarkus.json"
+    },
+    {
+      "id": "RES002-AbramMarkus",
+      "name": "Abraham (Abram) Markus",
+      "sex": "M",
+      "generation": 5,
+      "birth": "ABT 1800-1820",
+      "status": "possible",
+      "research_note": "Not in original GEDCOM. Derived 2026-05-21 from patronymic of son Yakov Abramovitch Markus in Suwalki PSA 1887, Akta 48. Probable grandfather of Beckie Marcus.",
+      "file": "RES002-AbramMarkus.json"
+    }
+  ]
+}

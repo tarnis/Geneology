@@ -1,0 +1,29 @@
+{
+  "id": "I6000000083479703946",
+  "gedcom_xref": "@I6000000083479703946@",
+  "schema_version": 1,
+  "names": [
+    "Estel Blumfield",
+    "Estel Svidler"
+  ],
+  "sex": "F",
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I6000000083478932628",
+        "name": "Leib Svidler"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000043680087300",
+        "name": "Louis Svidler"
+      }
+    ]
+  },
+  "facts": [],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 4
+}

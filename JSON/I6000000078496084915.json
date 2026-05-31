@@ -1,0 +1,207 @@
+{
+  "id": "I6000000078496084915",
+  "gedcom_xref": "@I6000000078496084915@",
+  "schema_version": 1,
+  "names": [
+    "Mordechai Flaksman",
+    "Max Flaxman",
+    "Motie Flaksman",
+    "Mordche Flaxman"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000078411217125",
+        "name": "Abraham Chaim Flaksman",
+        "note": "Confirmed as 'Abraham Flaxman' on 1941 NYC death certificate of Max"
+      },
+      {
+        "id": "I6000000078496155852",
+        "name": "Heni Sapler",
+        "note": "Listed as 'Anna' (mother) on 1941 NYC death certificate — consistent with Heni/Anna Sapler in tree"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000080839712368",
+        "name": "Jennie Dickstein Kaufman",
+        "note": "Married 1 Jun 1917, Manhattan. Jennie born Bessarabia, Russia per 1926 naturalization petition."
+      }
+    ],
+    "children": [
+      {
+        "name": "Anna Flaxman",
+        "birth_date": "19 NOV 1917",
+        "birth_place": "New York, United States",
+        "note": "Listed in 1926 naturalization petition and 1920 census (age 3). Not currently in Geni tree — possible gap.",
+        "id": null
+      },
+      {
+        "id": "I6000000043681525821",
+        "name": "Ida Flaxman",
+        "birth_date": "26 AUG 1919",
+        "birth_place": "New York, United States",
+        "note": "Birth date from 1926 naturalization petition. Confirmed in 1920 census (3 months old)."
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "5 MAR 1893",
+      "place": "Kliskovitz, Bessarabia, Russia",
+      "place_modern": "Likely Klishkovtsy (Клишківці), Khotyn Raion, Chernivtsi Oblast, Ukraine",
+      "status": "established",
+      "source": "Multiple sources — see notes",
+      "date_added": "2026-05-20",
+      "note": "Birth date 5 Mar 1893 confirmed by 5 independent sources: (1) WWI Draft Card 1917 ark:/61903/1:1:7J1G-G1ZM; (2) 1920 Census ark:/61903/1:1:MJGK-NKX (est. 1894 from age); (3) NUMIDENT ark:/61903/1:1:6KMG-2WQV; (4) Naturalization Petition 1926 ark:/61903/1:1:6G8V-GMXP; (5) Geni/GEDCOM. Birth TOWN 'Kliskovitz, Bessarabia, Russia' is from WWI draft card written in Max's own hand (June 5 1917). Naturalization petition (1926) lists only 'Bessarabia, Roumania' without town. Consistent with father Abraham Chaim Flaksman from Khotyn district. Prior tree entry ('Moldova') is superseded."
+    },
+    {
+      "field": "death",
+      "date": "4 MAR 1941",
+      "place": "Brooklyn, Kings County, New York, United States",
+      "certificate_number": "5278",
+      "status": "established",
+      "source": "New York, New York City Municipal Deaths, 1795-1949, FamilySearch ark:/61903/1:1:2W1M-TFD",
+      "date_added": "2026-05-24",
+      "note": "Age at death: 47. Image unavailable on FamilySearch. Parents on death certificate: Father = Abraham Flaxman (Russia); Mother = Anna (Russia) — confirms tree parents Abraham Chaim Flaksman + Heni/Anna Sapler.",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:2W1M-TFD"
+    },
+    {
+      "field": "occupation",
+      "value": "Hemstitching (1917); Furrier (1926); Fur Cutter/Fur Coat Manufacturer (later)",
+      "status": "established",
+      "source": "WWI Draft Card 1917 ark:/61903/1:1:7J1G-G1ZM; Naturalization Petition 1926 ark:/61903/1:1:6G8V-GMXP; Geni/GEDCOM",
+      "date_added": "2026-05-24",
+      "note": "Occupation changed from garment (hemstitching) in 1917 to fur trade by 1926. Geni note says he worked with furs first as employee then shop owner, lost shop in 1929 crash.",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:7J1G-G1ZM"
+    },
+    {
+      "field": "marriage",
+      "value": "to Jennie Dickstein Kaufman",
+      "date": "1 JUN 1917",
+      "place": "Manhattan, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com); New York, New York City Marriage Records, 1829-1938 (attached to tree LBGQ-VVV)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Mordechai-Flaksman/6000000078496084915"
+    },
+    {
+      "field": "immigration_brazil",
+      "value": "Arrived Brazil approximately 1912; departed for United States ~1915",
+      "status": "probable",
+      "source": "Geni family memoir note (Miguel Flaksman, Brazil); Naturalization Petition 1926 confirms last foreign residence was Rio de Janeiro, Brazil",
+      "date_added": "2026-05-24",
+      "note": "Geni note says he came to Brazil in 1912 at approximately age 19. By 1915 he departed for the US. Brazil immigration arrival record not yet located. FamilySearch 'Brazil Immigration Cards, 1900-1965' not yet searched. Naturalization petition confirms last port of departure was Rio de Janeiro, Brazil."
+    },
+    {
+      "field": "immigration_us",
+      "value": "Arrived New York from Rio de Janeiro, Brazil, June 25 1915 aboard SS São Paulo",
+      "date": "25 JUN 1915",
+      "place": "Port of New York (Ellis Island), New York, United States",
+      "status": "established",
+      "source": "Declaration of Intention 1919 ark:/61903/1:1:6G6J-6LTV; Certificate of Arrival embedded in naturalization file; Petition for Naturalization 1926 ark:/61903/1:1:6G8V-GMXP; 1920 Census ark:/61903/1:1:MJGK-NKX (arrival year 1915)",
+      "date_added": "2026-05-24",
+      "note": "Ship: SS São Paulo (Brazilian liner, Rio de Janeiro – New York route). Certificate of Arrival reads 'Flaxman, Mordche' confirming Yiddish form of Mordechai used on immigration documents. Arrival year 1915 confirmed by three independent records (DoI, Certificate of Arrival, 1920 census). Family tradition of '1913' arrival is incorrect — likely reflects Brazil arrival date (~1912-1913). Ship manifest for SS São Paulo, June 25 1915 not yet located on FamilySearch (pending search).",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:6G6J-6LTV"
+    },
+    {
+      "field": "declaration_of_intention",
+      "value": "First Papers filed December 17, 1919, Bronx, New York",
+      "date": "17 DEC 1919",
+      "place": "Bronx, New York, United States",
+      "status": "established",
+      "source": "Declaration of Intention, FamilySearch ark:/61903/1:1:6G6J-6LTV (image: ark:/61903/3:1:3Q9M-CSMP-FQKW-4, cc=2060123)",
+      "date_added": "2026-05-24",
+      "needs_review": true,
+      "image_url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSMP-FQKW-4?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A6G6J-6LTV&action=view&cc=2060123",
+      "note": "Birth city field on the Declaration of Intention is a handwritten word (~4-5 letters, possibly starting with K) too small to read at available scan resolution. Needs high-resolution review. Birthplace at top of DoI reads 'Russia' at country level. Arrival date on DoI confirms June 25 1915, SS São Paulo from Rio de Janeiro.",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:6G6J-6LTV"
+    },
+    {
+      "field": "naturalization",
+      "value": "Naturalized citizen, March 8, 1926, Brooklyn, Eastern District of New York",
+      "date": "8 MAR 1926",
+      "place": "Brooklyn, New York City, New York, United States",
+      "certificate_number": "57455",
+      "status": "established",
+      "source": "Petition for Naturalization, New York, U.S. District and Circuit Court Naturalization Records, 1824-1991, FamilySearch ark:/61903/1:1:6G8V-GMXP (image: ark:/61903/3:1:3Q9M-CSMP-FQJX-Y, cc=2060123)",
+      "date_added": "2026-05-24",
+      "note": "Petition for Naturalization (Second Papers). Publication: Petitions for Naturalization 1865-1991, U.S. District Court for the Eastern District of New York (Affiliate Pub. 576072). Birthplace on petition: 'Bessarabia, Roumania' (Bessarabia had passed to Romania in 1918, so correctly updated). Arrival stated as Rio de Janeiro → N.Y., SS São Paulo, June 25. Declared intention: Dec. 17, 1919 Bronx. Prior petition attempt: Supreme Court of Bronx Co., NY, June 1 1925 (did not complete at that venue). Address at naturalization: 1314 76th St, Brooklyn NY. Occupation: Furrier. Wife: Jennie (Bessarabia, Russia). Children listed: Anna b. Nov. 19 1917 NY; Ida b. Aug. 26 1919 NY.",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:6G8V-GMXP"
+    },
+    {
+      "field": "wwi_draft_registration",
+      "value": "Registered June 5, 1917, New York City Assembly District 36",
+      "date": "5 JUN 1917",
+      "place": "New York City, New York, United States",
+      "status": "established",
+      "source": "United States, World War I Draft Registration Cards, 1917-1918, FamilySearch ark:/61903/1:1:7J1G-G1ZM (image: ark:/61903/3:1:33SQ-G1N9-2CR, cc=1968530, image 4266/5825)",
+      "date_added": "2026-05-24",
+      "note": "Card No. 2131, Registration Card, ASSY. DIST. 36, New York County. Registrant: Max Flaxman, age 24. Alien (Russian subject). Address: 229 E 103rd St, N.Y. Occupation: Hemstitching. Employer: H. Hasenberg, 34 E 20th St. Married. Exemption claimed: wife and expected child (Ida, born Aug. 1919). CRITICAL: Birthplace written in Max's own hand as 'Kliskovitz [Town], Bess[arabia] [State], Russia [Nation]'. Registrar's Report: Height medium, 5ft [?]in, Slender build, Blue eyes, Brown hair. Date of registration June 5 1917 confirmed on right-hand card. Publication: M1509, World War I Selective Service System Draft Registration Cards.",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:7J1G-G1ZM"
+    },
+    {
+      "field": "census_1920",
+      "value": "1920 US Census, Bronx, New York — head of household",
+      "date": "1920",
+      "place": "Bronx Assembly District 1, Enumeration District 19, New York, United States",
+      "status": "established",
+      "source": "United States, Census, 1920, FamilySearch ark:/61903/1:1:MJGK-NKX",
+      "date_added": "2026-05-24",
+      "note": "Household: Max Flaxman (head, M, 26, Russia, arrived 1915), Jennie Flaxman (wife, F, 24, Russia), Anna Flaxman (F, 3 years, NY), Ida Flaxman (F, 3 months, NY). Arrival year 1915 is 3rd independent confirmation of immigration date. Father's birthplace: Russia; Mother's birthplace: Russia. Household ID: 126.",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:MJGK-NKX"
+    },
+    {
+      "field": "census_1925",
+      "value": "1925 New York State Census, Brooklyn, Kings County — head of household",
+      "date": "1925",
+      "place": "Brooklyn, Kings County, New York, United States",
+      "status": "established",
+      "source": "New York, State Census, 1925, FamilySearch ark:/61903/1:1:K9B3-F1Q",
+      "date_added": "2026-05-24",
+      "note": "Age 31, Nationality Russia, head of household. Family No. 1323, Line 49, Page 47. Image available on Ancestry only (not FamilySearch). Confirms family had moved from Bronx to Brooklyn between 1920 and 1925.",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:K9B3-F1Q"
+    },
+    {
+      "field": "numident",
+      "value": "Social Security NUMIDENT — posthumous claim filed March 18, 1941",
+      "date": "18 MAR 1941",
+      "status": "established",
+      "source": "United States, Social Security Numerical Identification Files (NUMIDENT), 1936-2007, FamilySearch ark:/61903/1:1:6KMG-2WQV",
+      "date_added": "2026-05-24",
+      "note": "Social Program Claim Date: 18 Mar 1941 (posthumous — filed by widow ~2 weeks after Max's death on 4 Mar 1941). Confirms birth date 5 Mar 1893. No birthplace detail beyond name-level in index. No image available.",
+      "url": "https://www.familysearch.org/ark:/61903/1:1:6KMG-2WQV"
+    }
+  ],
+  "research_notes": [
+    {
+      "text": "{geni:about_me} He came to Brazil (in 1912) but decided to move on to the US (at the age of 19), worked there with furs, first as an employee, later as shop owner (and later lost his shop because of the crisis in 29).  To blend in, Motie took the name Max.",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20"
+    },
+    {
+      "text": "BIRTH TOWN ESTABLISHED: Kliskovitz, Bessarabia, Russia — confirmed from WWI Draft Card (1917, ark:/61903/1:1:7J1G-G1ZM), written in Max's own handwriting on June 5, 1917. Modern identification: almost certainly Klishkovtsy (Клишківці), Khotyn Raion, Chernivtsi Oblast, Ukraine (formerly Khotyn district of Bessarabia). Consistent with father Abraham Chaim Flaksman listed in tree as from 'Khotyn/Orinin, Podolia, Ukraine.' Naturalization petition (1926) lists 'Bessarabia, Roumania' without town name.",
+      "source": "FamilySearch research session, 2026-05-24",
+      "date_added": "2026-05-24"
+    },
+    {
+      "text": "US ARRIVAL ESTABLISHED: June 25, 1915, SS São Paulo, from Rio de Janeiro, Brazil to New York. Confirmed by Declaration of Intention (1919), Certificate of Arrival (embedded in naturalization file, reads 'Flaxman, Mordche'), Petition for Naturalization (1926), and 1920 Census (arrival year 1915). Family tradition of '1913' arrival likely reflects Brazil arrival (~1912-1913), not US arrival.",
+      "source": "FamilySearch research session, 2026-05-24",
+      "date_added": "2026-05-24"
+    },
+    {
+      "text": "CHILD Anna Flaxman: Born November 19, 1917, New York — found in 1926 Naturalization Petition and 1920 Census (age 3). Not currently listed in Geni tree. Relationship to family confirmed by two independent records. Research priority: find her in later censuses and trace what happened to her.",
+      "source": "FamilySearch research session, 2026-05-24",
+      "date_added": "2026-05-24"
+    },
+    {
+      "text": "PENDING RESEARCH: (1) Ship manifest for SS São Paulo, June 25 1915, Ellis Island — would give port of embarkation and fellow passengers. (2) Brazil arrival/departure record for Flaksman ~1912 (FamilySearch Brazil Immigration Cards, 1900-1965). (3) 1930 US Census and 1940 US Census — ARKs not yet retrieved. (4) NYC death certificate image #5278 (4 Mar 1941, Brooklyn) — image unavailable on FamilySearch; may have birth town on original. (5) DoI birth city field — needs high-resolution zoom (needs_review flagged).",
+      "source": "FamilySearch research session, 2026-05-24",
+      "date_added": "2026-05-24"
+    }
+  ],
+  "last_updated": "2026-05-24",
+  "generation": 3
+}

@@ -1,0 +1,67 @@
+{
+  "id": "I6000000081000502998",
+  "gedcom_xref": "@I6000000081000502998@",
+  "schema_version": 1,
+  "names": [
+    "Jean Sweedler",
+    "Jean Sherman"
+  ],
+  "sex": "F",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000043680087300",
+        "name": "Louis Svidler"
+      },
+      {
+        "id": "I6000000088603414914",
+        "name": "Anna Esther Zuckerman"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000001814601218",
+        "name": "David Sherman"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000002651532168",
+        "name": "Louise Sherman"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "17 AUG 1912",
+      "place": "New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Jean-Sweedler/6000000081000502998"
+    },
+    {
+      "field": "death",
+      "date": "DEC 1992",
+      "place": "Florida, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Jean-Sweedler/6000000081000502998"
+    },
+    {
+      "field": "marriage",
+      "value": "to David Sherman",
+      "date": "20 NOV 1933",
+      "place": "New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Jean-Sweedler/6000000081000502998"
+    }
+  ],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 2
+}

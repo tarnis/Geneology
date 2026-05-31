@@ -1,0 +1,73 @@
+{
+  "id": "I6000000043681525821",
+  "gedcom_xref": "@I6000000043681525821@",
+  "schema_version": 1,
+  "names": [
+    "Ida Flaxman",
+    "Ida Hyner"
+  ],
+  "sex": "F",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000078496084915",
+        "name": "Mordechai Flaksman"
+      },
+      {
+        "id": "I6000000080839712368",
+        "name": "Jennie Dickstein Kaufman"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000043711578108",
+        "name": "Irving Hyner"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000001814601273",
+        "name": "Barry A Hyner"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "burial",
+      "place": "West Babylon, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Ida-Flaxman/6000000043681525821"
+    },
+    {
+      "field": "birth",
+      "date": "28 AUG 1919",
+      "place": "Brooklyn, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Ida-Flaxman/6000000043681525821"
+    },
+    {
+      "field": "death",
+      "date": "5 APR 1992",
+      "place": "Brooklyn, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Ida-Flaxman/6000000043681525821"
+    },
+    {
+      "field": "occupation",
+      "value": "Secretary",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Ida-Flaxman/6000000043681525821"
+    }
+  ],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 2
+}

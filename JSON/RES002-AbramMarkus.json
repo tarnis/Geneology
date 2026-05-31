@@ -1,0 +1,50 @@
+{
+  "id": "RES002-AbramMarkus",
+  "gedcom_xref": null,
+  "schema_version": 1,
+  "research_id_note": "Not in original GEDCOM. Assigned research ID RES002. Derived 2026-05-21 from patronymic of son Yakov Abramovitch Markus in Suwalki PSA birth register 1887, Akta 48.",
+  "names": [
+    "Abraham Markus",
+    "Abram Markus",
+    "Авром Маркус"
+  ],
+  "names_note": "Name derived entirely from son's patronymic: 'Абрамович' = son of Abram/Abraham. Hebrew/Yiddish: Avrom / Avrum Markus. Exact name form (Avrom, Avrum, Abraham, Abram) unknown.",
+  "sex": "M",
+  "relationships": {
+    "children": [
+      {
+        "id": "RES001-YakovMarkus",
+        "name": "Yakov (Jacob) Abramovitch Markus",
+        "role": "child",
+        "status": "possible",
+        "source": "Derived from patronymic 'Абрамович' (Abramovitch = son of Abram) in Suwalki PSA birth register 1887, Akta 48 (szukajwarchiwach.gov.pl, unit 14210898, scan 27)"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "ABT 1800-1820",
+      "date_note": "Estimated from son Yakov's birth ~1838. Abraham likely born ~1800-1820, placing him in his late 30s to 50s when Yakov was born.",
+      "place": "Unknown — likely Suwałki Gubernia or adjacent region, Russian Empire",
+      "status": "possible",
+      "source": "Estimate derived from son Yakov Abramovitch Markus's approximate birth year (~1838), based on age stated in Suwalki PSA 1887 birth register, Akta 48",
+      "date_added": "2026-05-21"
+    }
+  ],
+  "research_notes": [
+    {
+      "date": "2026-05-21",
+      "session": "Suwalki PSA research session",
+      "summary": "Abraham (Abram) Markus is inferred from the patronymic of his son Yakov Abramovitch Markus, who appears as the father in the Suwalki PSA Jewish civil registry, 1887, Akta 48 (birth of Riwka/Beckie Markus). The patronymic 'Абрамович' is clearly legible in the document, confirming Abraham was the father of Yakov. No other documentary evidence for Abraham has been located. He is a generation 5 ancestor of Matthew Hyner."
+    },
+    {
+      "date": "2026-05-21",
+      "topic": "Research possibilities",
+      "note": "To find Abraham Markus directly: (1) Search JRI-Poland for Markus births in Suwałki Gubernia before ~1840 — a birth record for 'Yankel/Yakov ben Avrom Markus' would be his child's record and would name Abraham; alternatively a Yakov Markus marriage record would name his parents. (2) Check Russian Empire Revision Lists (ревизские сказки) for Suwałki — the 8th Revision (1834) and 10th Revision (1858) may document the Markus household with Abraham as patriarch. These are at CAHJP (Central Archives for the History of the Jewish People) or possibly digitized via Yad Vashem / JRI-Poland. (3) If Abraham lived into the 1860s-1870s, a death record for 'Avrom Markus' in Suwałki PSA records would confirm his identity."
+    }
+  ],
+  "rejected_records": [],
+  "last_updated": "2026-05-21",
+  "generation": 5
+}

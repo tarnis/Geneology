@@ -1,0 +1,56 @@
+{
+  "id": "I6000000080839648408",
+  "gedcom_xref": "@I6000000080839648408@",
+  "schema_version": 1,
+  "names": [
+    "Celia Berkman",
+    "Celia Kaufman"
+  ],
+  "sex": "F",
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I6000000080840141299",
+        "name": "Samuel Kaufman"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000080839712368",
+        "name": "Jennie Dickstein Kaufman"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "burial",
+      "place": "Queens, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Celia-Berkman/6000000080839648408"
+    },
+    {
+      "field": "birth",
+      "date": "ABT 1879",
+      "place": "Russia",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Celia-Berkman/6000000080839648408"
+    },
+    {
+      "field": "death",
+      "date": "11 SEP 1925",
+      "place": "Bronx, New York, United States",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Celia-Berkman/6000000080839648408"
+    }
+  ],
+  "research_notes": [],
+  "last_updated": "2026-05-20",
+  "generation": 4
+}

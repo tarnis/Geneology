@@ -1,0 +1,53 @@
+{
+  "id": "I6000000080840141299",
+  "gedcom_xref": "@I6000000080840141299@",
+  "schema_version": 1,
+  "names": [
+    "Samuel Kaufman"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [
+      {
+        "id": "I6000000080840673895",
+        "name": "Meyer Kaufman"
+      },
+      {
+        "id": "I6000000080840342097",
+        "name": "Rose Mandell"
+      }
+    ],
+    "spouses": [
+      {
+        "id": "I6000000080839648408",
+        "name": "Celia Berkman"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000080839712368",
+        "name": "Jennie Dickstein Kaufman"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "ABT 1873",
+      "place": "Russia",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Samuel-Kaufman/6000000080840141299"
+    }
+  ],
+  "research_notes": [
+    {
+      "text": "{geni:about_me} Arrived in New York around 1904.",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20"
+    }
+  ],
+  "last_updated": "2026-05-20",
+  "generation": 4
+}

@@ -1,0 +1,52 @@
+{
+  "id": "I6000000005945314016",
+  "gedcom_xref": "@I6000000005945314016@",
+  "schema_version": 1,
+  "names": [
+    "Elie Sapler"
+  ],
+  "sex": "M",
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I6000000078496575399",
+        "name": "Malka Sapler"
+      }
+    ],
+    "children": [
+      {
+        "id": "I6000000078496155852",
+        "name": "Heni Sapler"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "field": "birth",
+      "date": "ABT 1830",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Elie-Sapler/6000000005945314016"
+    },
+    {
+      "field": "death",
+      "date": "ABT 1900",
+      "place": "Khotyn, Bessarabia",
+      "status": "established",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20",
+      "url": "https://www.geni.com/people/Elie-Sapler/6000000005945314016"
+    }
+  ],
+  "research_notes": [
+    {
+      "text": "{geni:about_me} From Miguel's autobiography:  “I vaguely remember my grandfather from my mother’s side, Zeide Elie. I was four years-old when he died. From what I’ve heard about him, he was intelligent, active and good, always ingood humor. I don’t think he had been knowledgeable; he did not leave books. He was red-haired, of regular height, and no picture was left of him (he might have never taken one).\"\n\nHe died at age 70.",
+      "source": "GEDCOM export (Geni.com)",
+      "date_added": "2026-05-20"
+    }
+  ],
+  "last_updated": "2026-05-20",
+  "generation": 5
+}
